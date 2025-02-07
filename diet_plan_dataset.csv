@@ -1,0 +1,901 @@
+Age,Gender,Height_cm,Weight_kg,Desired_Weight_kg,Time_Period_weeks,BMI,BMR,Daily_Calories_Maintenance,Daily_Calories_Target,Breakfast,Lunch,Dinner,Snack
+56,Male,178,63,56,9,19.88,1467.5,2274.62,1419.07,Greek yogurt,Sushi,Vegetable stir-fry,Protein bar
+46,Male,194,85,72,9,22.58,1837.5,2848.12,1259.24,Smoothie,Burrito bowl,Chicken soup,Nuts and fruits
+32,Male,195,72,61,24,18.93,1783.75,2764.81,2260.65,Oatmeal with fruits,Sushi,Steak with veggies,Protein bar
+60,Male,159,115,107,19,45.49,1848.75,2865.56,2402.4,Smoothie,Burrito bowl,Salmon and quinoa,Nuts and fruits
+25,Female,192,51,45,8,13.83,1424.0,2207.2,1382.2,Smoothie,Rice and beans,Tofu curry,Protein bar
+38,Female,183,114,108,20,34.04,1932.75,2995.76,2665.76,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+56,Female,175,116,111,13,37.88,1812.75,2809.76,2386.69,Greek yogurt,Grilled chicken salad,Tofu curry,Nuts and fruits
+36,Female,190,101,100,24,27.98,1856.5,2877.58,2831.74,Smoothie,Sushi,Vegetable stir-fry,Hummus with carrots
+40,Male,198,111,113,21,28.31,2152.5,3336.38,3441.14,Eggs and toast,Rice and beans,Salmon and quinoa,Nuts and fruits
+28,Male,152,72,59,10,31.16,1535.0,2379.25,949.25,Greek yogurt,Sushi,Chicken soup,Nuts and fruits
+28,Male,155,75,80,6,31.22,1583.75,2454.81,3371.48,Pancakes,Burrito bowl,Steak with veggies,Hummus with carrots
+41,Female,154,117,120,16,49.33,1766.5,2738.08,2944.32,Pancakes,Burrito bowl,Chicken soup,Cheese and crackers
+53,Male,154,104,97,18,43.85,1742.5,2700.88,2273.1,Oatmeal with fruits,Rice and beans,Steak with veggies,Cheese and crackers
+57,Female,196,55,46,23,14.32,1329.0,2059.95,1629.52,Smoothie,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+41,Female,172,84,88,22,28.39,1549.0,2400.95,2600.95,Eggs and toast,Burrito bowl,Salmon and quinoa,Dark chocolate
+20,Male,198,71,66,6,18.11,1852.5,2871.38,1954.71,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Nuts and fruits
+39,Male,158,92,94,7,36.85,1717.5,2662.12,2976.41,Smoothie,Rice and beans,Vegetable stir-fry,Nuts and fruits
+19,Male,184,64,51,8,18.9,1700.0,2635.0,847.5,Greek yogurt,Sushi,Tofu curry,Hummus with carrots
+41,Female,169,109,98,4,38.16,1780.25,2759.39,-265.61,Pancakes,Sushi,Chicken soup,Hummus with carrots
+61,Male,198,61,64,7,15.56,1547.5,2398.62,2870.05,Eggs and toast,Grilled chicken salad,Chicken soup,Dark chocolate
+47,Female,191,98,86,15,26.86,1777.75,2755.51,1875.51,Pancakes,Burrito bowl,Chicken soup,Cheese and crackers
+55,Male,184,91,89,13,26.88,1790.0,2774.5,2605.27,Greek yogurt,Rice and beans,Salmon and quinoa,Protein bar
+19,Female,199,87,74,24,21.97,1857.75,2879.51,2283.68,Smoothie,Grilled chicken salad,Chicken soup,Cheese and crackers
+38,Female,167,94,95,23,33.71,1632.75,2530.76,2578.59,Greek yogurt,Burrito bowl,Tofu curry,Nuts and fruits
+50,Male,166,84,83,16,30.48,1632.5,2530.38,2461.62,Greek yogurt,Rice and beans,Tofu curry,Hummus with carrots
+29,Female,173,79,77,17,26.4,1565.25,2426.14,2296.73,Pancakes,Sushi,Steak with veggies,Dark chocolate
+39,Female,152,79,80,8,34.19,1384.0,2145.2,2282.7,Eggs and toast,Rice and beans,Salmon and quinoa,Cheese and crackers
+61,Male,181,55,44,7,16.79,1381.25,2140.94,412.37,Greek yogurt,Pasta with veggies,Tofu curry,Dark chocolate
+42,Female,184,116,117,17,34.26,1939.0,3005.45,3070.16,Pancakes,Rice and beans,Vegetable stir-fry,Cheese and crackers
+44,Male,187,56,58,13,16.01,1513.75,2346.31,2515.54,Eggs and toast,Pasta with veggies,Salmon and quinoa,Nuts and fruits
+59,Female,162,101,88,20,38.48,1566.5,2428.08,1713.08,Smoothie,Rice and beans,Salmon and quinoa,Protein bar
+45,Male,196,63,67,13,16.4,1635.0,2534.25,2872.71,Smoothie,Pasta with veggies,Tofu curry,Dark chocolate
+33,Male,174,64,59,10,21.14,1567.5,2429.62,1879.62,Oatmeal with fruits,Sushi,Vegetable stir-fry,Dark chocolate
+32,Female,158,70,63,19,28.04,1366.5,2118.08,1712.81,Pancakes,Burrito bowl,Steak with veggies,Protein bar
+64,Female,153,84,75,4,35.88,1315.25,2038.64,-436.36,Eggs and toast,Pasta with veggies,Tofu curry,Dark chocolate
+61,Female,163,115,109,20,43.28,1702.75,2639.26,2309.26,Greek yogurt,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+20,Female,186,51,46,24,14.74,1411.5,2187.83,1958.66,Smoothie,Sushi,Salmon and quinoa,Cheese and crackers
+54,Female,183,84,83,12,25.08,1552.75,2406.76,2315.1,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Cheese and crackers
+24,Male,160,69,70,9,26.95,1575.0,2441.25,2563.47,Pancakes,Grilled chicken salad,Salmon and quinoa,Protein bar
+38,Female,190,59,48,22,16.34,1426.5,2211.08,1661.08,Oatmeal with fruits,Sushi,Tofu curry,Nuts and fruits
+26,Male,152,74,60,16,32.03,1565.0,2425.75,1463.25,Smoothie,Grilled chicken salad,Tofu curry,Dark chocolate
+56,Male,177,115,112,6,36.71,1981.25,3070.94,2520.94,Eggs and toast,Sushi,Chicken soup,Nuts and fruits
+35,Female,178,74,66,10,23.36,1516.5,2350.58,1470.58,Eggs and toast,Pasta with veggies,Chicken soup,Protein bar
+21,Male,158,103,97,25,41.26,1917.5,2972.12,2708.12,Eggs and toast,Grilled chicken salad,Chicken soup,Protein bar
+42,Male,152,82,82,12,35.49,1565.0,2425.75,2425.75,Pancakes,Pasta with veggies,Tofu curry,Cheese and crackers
+31,Male,174,85,74,25,28.08,1787.5,2770.62,2286.62,Pancakes,Sushi,Steak with veggies,Dark chocolate
+26,Male,183,63,50,8,18.81,1648.75,2555.56,768.06,Pancakes,Pasta with veggies,Tofu curry,Hummus with carrots
+43,Female,161,114,101,13,43.98,1770.25,2743.89,1643.89,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Protein bar
+19,Male,191,103,93,20,28.23,2133.75,3307.31,2757.31,Eggs and toast,Grilled chicken salad,Tofu curry,Dark chocolate
+37,Female,158,101,95,15,40.46,1651.5,2559.83,2119.83,Smoothie,Pasta with veggies,Tofu curry,Nuts and fruits
+45,Female,164,52,46,19,19.33,1159.0,1796.45,1449.08,Pancakes,Rice and beans,Salmon and quinoa,Cheese and crackers
+64,Male,189,90,76,6,25.2,1766.25,2737.69,171.02,Pancakes,Sushi,Salmon and quinoa,Nuts and fruits
+24,Female,174,55,55,25,18.17,1356.5,2102.58,2102.58,Eggs and toast,Sushi,Salmon and quinoa,Protein bar
+61,Female,154,74,76,12,31.2,1236.5,1916.58,2099.91,Pancakes,Pasta with veggies,Tofu curry,Protein bar
+25,Female,160,62,62,18,24.22,1334.0,2067.7,2067.7,Greek yogurt,Rice and beans,Steak with veggies,Nuts and fruits
+64,Male,183,57,52,8,17.02,1398.75,2168.06,1480.56,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Protein bar
+52,Female,173,70,75,16,23.39,1360.25,2108.39,2452.14,Pancakes,Burrito bowl,Vegetable stir-fry,Dark chocolate
+31,Female,164,117,108,17,43.5,1879.0,2912.45,2330.1,Eggs and toast,Burrito bowl,Steak with veggies,Protein bar
+34,Female,187,74,69,23,21.16,1577.75,2445.51,2206.38,Eggs and toast,Pasta with veggies,Steak with veggies,Cheese and crackers
+53,Male,157,117,104,18,47.47,1891.25,2931.44,2136.99,Eggs and toast,Rice and beans,Vegetable stir-fry,Dark chocolate
+57,Female,154,94,82,19,39.64,1456.5,2257.58,1562.84,Oatmeal with fruits,Rice and beans,Chicken soup,Hummus with carrots
+21,Male,197,109,98,16,28.09,2221.25,3442.94,2686.69,Pancakes,Sushi,Salmon and quinoa,Protein bar
+19,Male,175,61,48,20,19.92,1613.75,2501.31,1786.31,Eggs and toast,Grilled chicken salad,Salmon and quinoa,Protein bar
+23,Male,167,81,73,11,29.04,1743.75,2702.81,1902.81,Greek yogurt,Rice and beans,Vegetable stir-fry,Cheese and crackers
+59,Male,155,62,50,24,25.81,1298.75,2013.06,1463.06,Smoothie,Burrito bowl,Steak with veggies,Cheese and crackers
+21,Male,186,80,67,5,23.12,1862.5,2886.88,26.88,Smoothie,Grilled chicken salad,Chicken soup,Nuts and fruits
+46,Male,197,69,60,8,17.78,1696.25,2629.19,1391.69,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Nuts and fruits
+35,Female,162,67,58,9,25.53,1346.5,2087.08,987.08,Smoothie,Pasta with veggies,Salmon and quinoa,Nuts and fruits
+43,Male,177,109,111,15,34.79,1986.25,3078.69,3225.35,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+61,Female,154,112,111,21,47.23,1616.5,2505.58,2453.19,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Nuts and fruits
+51,Female,162,55,48,25,20.96,1146.5,1777.08,1469.08,Greek yogurt,Rice and beans,Tofu curry,Nuts and fruits
+27,Male,166,81,84,25,29.39,1717.5,2662.12,2794.12,Greek yogurt,Sushi,Vegetable stir-fry,Hummus with carrots
+53,Female,199,92,82,4,23.23,1737.75,2693.51,-56.49,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Nuts and fruits
+31,Female,189,51,48,20,14.28,1375.25,2131.64,1966.64,Oatmeal with fruits,Pasta with veggies,Chicken soup,Protein bar
+48,Female,194,109,107,14,28.96,1901.5,2947.32,2790.18,Smoothie,Burrito bowl,Tofu curry,Cheese and crackers
+32,Female,181,72,58,13,21.98,1530.25,2371.89,1187.27,Pancakes,Pasta with veggies,Chicken soup,Dark chocolate
+25,Male,178,80,73,22,25.25,1792.5,2778.38,2428.38,Smoothie,Rice and beans,Salmon and quinoa,Hummus with carrots
+31,Female,152,54,43,17,23.37,1174.0,1819.7,1107.94,Oatmeal with fruits,Burrito bowl,Tofu curry,Cheese and crackers
+40,Male,189,83,72,13,23.24,1816.25,2815.19,1884.42,Greek yogurt,Pasta with veggies,Chicken soup,Cheese and crackers
+57,Female,183,59,48,18,17.62,1287.75,1996.01,1323.79,Smoothie,Pasta with veggies,Chicken soup,Protein bar
+38,Female,189,51,56,22,14.28,1340.25,2077.39,2327.39,Pancakes,Sushi,Tofu curry,Nuts and fruits
+33,Male,176,60,58,7,19.37,1540.0,2387.0,2072.71,Smoothie,Pasta with veggies,Salmon and quinoa,Protein bar
+62,Female,162,99,86,5,37.72,1531.5,2373.83,-486.17,Eggs and toast,Grilled chicken salad,Chicken soup,Nuts and fruits
+35,Female,194,80,80,12,21.26,1676.5,2598.58,2598.58,Smoothie,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+64,Female,182,105,108,13,31.7,1706.5,2645.08,2898.92,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Cheese and crackers
+41,Male,155,58,59,14,24.14,1348.75,2090.56,2169.13,Greek yogurt,Burrito bowl,Steak with veggies,Nuts and fruits
+43,Female,173,70,63,17,23.39,1405.25,2178.14,1725.2,Greek yogurt,Sushi,Steak with veggies,Hummus with carrots
+42,Male,168,77,68,10,27.28,1615.0,2503.25,1513.25,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+62,Female,165,111,103,18,40.77,1670.25,2588.89,2100.0,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Hummus with carrots
+58,Male,189,56,46,25,15.68,1456.25,2257.19,1817.19,Oatmeal with fruits,Pasta with veggies,Chicken soup,Cheese and crackers
+46,Male,177,65,53,22,20.75,1531.25,2373.44,1773.44,Smoothie,Burrito bowl,Steak with veggies,Protein bar
+32,Female,182,53,48,25,16.0,1346.5,2087.08,1867.08,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Dark chocolate
+62,Female,197,53,56,18,13.66,1290.25,1999.89,2183.22,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Nuts and fruits
+18,Male,190,89,85,11,24.65,1992.5,3088.38,2688.38,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+42,Male,162,66,62,14,25.15,1467.5,2274.62,1960.34,Smoothie,Sushi,Salmon and quinoa,Protein bar
+24,Female,192,101,91,12,27.4,1929.0,2989.95,2073.28,Pancakes,Grilled chicken salad,Salmon and quinoa,Protein bar
+26,Male,194,101,95,18,26.84,2097.5,3251.12,2884.46,Pancakes,Pasta with veggies,Chicken soup,Cheese and crackers
+41,Female,174,85,89,4,28.08,1571.5,2435.83,3535.82,Greek yogurt,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+18,Female,191,87,84,4,23.85,1812.75,2809.76,1984.76,Oatmeal with fruits,Rice and beans,Chicken soup,Hummus with carrots
+61,Female,185,99,102,22,28.93,1680.25,2604.39,2754.39,Greek yogurt,Burrito bowl,Chicken soup,Protein bar
+25,Female,176,112,103,6,36.16,1934.0,2997.7,1347.7,Eggs and toast,Grilled chicken salad,Tofu curry,Cheese and crackers
+41,Male,187,112,115,13,32.03,2088.75,3237.56,3491.41,Pancakes,Rice and beans,Vegetable stir-fry,Cheese and crackers
+28,Female,156,111,98,11,45.61,1784.0,2765.2,1465.2,Oatmeal with fruits,Sushi,Vegetable stir-fry,Nuts and fruits
+34,Male,154,56,44,18,23.61,1357.5,2104.12,1370.79,Eggs and toast,Burrito bowl,Vegetable stir-fry,Hummus with carrots
+25,Female,192,76,74,13,20.62,1674.0,2594.7,2425.47,Eggs and toast,Grilled chicken salad,Tofu curry,Protein bar
+52,Male,194,63,52,4,16.74,1587.5,2460.62,-564.38,Oatmeal with fruits,Pasta with veggies,Chicken soup,Dark chocolate
+52,Female,180,54,52,21,16.67,1244.0,1928.2,1823.44,Eggs and toast,Grilled chicken salad,Chicken soup,Hummus with carrots
+50,Male,172,104,103,5,35.15,1870.0,2898.5,2678.5,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Nuts and fruits
+22,Male,191,51,50,22,13.98,1598.75,2478.06,2428.06,Oatmeal with fruits,Burrito bowl,Tofu curry,Cheese and crackers
+59,Female,159,111,114,16,43.91,1647.75,2554.01,2760.26,Smoothie,Pasta with veggies,Salmon and quinoa,Protein bar
+56,Female,181,70,75,25,21.37,1390.25,2154.89,2374.89,Greek yogurt,Sushi,Tofu curry,Hummus with carrots
+58,Female,192,70,72,4,18.99,1449.0,2245.95,2795.95,Eggs and toast,Pasta with veggies,Salmon and quinoa,Dark chocolate
+45,Female,179,59,60,5,18.41,1322.75,2050.26,2270.26,Eggs and toast,Sushi,Steak with veggies,Nuts and fruits
+24,Male,188,107,112,19,30.27,2130.0,3301.5,3590.97,Smoothie,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+26,Female,180,88,79,18,27.16,1714.0,2656.7,2106.7,Smoothie,Burrito bowl,Vegetable stir-fry,Hummus with carrots
+25,Male,167,54,55,16,19.36,1463.75,2268.81,2337.56,Smoothie,Grilled chicken salad,Chicken soup,Dark chocolate
+29,Male,185,114,107,19,33.31,2156.25,3342.19,2936.92,Pancakes,Sushi,Steak with veggies,Nuts and fruits
+51,Female,151,62,60,20,27.19,1147.75,1779.01,1669.01,Pancakes,Sushi,Vegetable stir-fry,Protein bar
+50,Male,163,102,100,24,38.39,1793.75,2780.31,2688.65,Pancakes,Rice and beans,Chicken soup,Nuts and fruits
+40,Male,162,94,95,10,35.82,1757.5,2724.12,2834.12,Oatmeal with fruits,Rice and beans,Steak with veggies,Dark chocolate
+41,Male,178,81,78,20,25.56,1722.5,2669.88,2504.88,Eggs and toast,Rice and beans,Vegetable stir-fry,Cheese and crackers
+54,Male,161,85,90,10,32.79,1591.25,2466.44,3016.44,Greek yogurt,Pasta with veggies,Salmon and quinoa,Cheese and crackers
+52,Female,188,109,111,16,30.84,1844.0,2858.2,2995.7,Oatmeal with fruits,Rice and beans,Tofu curry,Hummus with carrots
+61,Female,151,60,63,8,26.31,1077.75,1670.51,2083.01,Eggs and toast,Sushi,Steak with veggies,Dark chocolate
+57,Female,181,112,116,20,34.19,1805.25,2798.14,3018.14,Eggs and toast,Pasta with veggies,Chicken soup,Nuts and fruits
+39,Female,162,70,68,6,26.67,1356.5,2102.58,1735.91,Smoothie,Burrito bowl,Steak with veggies,Nuts and fruits
+44,Male,195,101,98,10,26.56,2013.75,3121.31,2791.31,Smoothie,Grilled chicken salad,Chicken soup,Cheese and crackers
+52,Male,176,104,108,20,33.57,1885.0,2921.75,3141.75,Oatmeal with fruits,Rice and beans,Steak with veggies,Cheese and crackers
+18,Female,198,75,67,10,19.13,1736.5,2691.58,1811.58,Smoothie,Burrito bowl,Chicken soup,Protein bar
+52,Female,190,117,109,24,32.41,1936.5,3001.58,2634.91,Eggs and toast,Sushi,Vegetable stir-fry,Cheese and crackers
+54,Female,166,83,85,4,30.12,1436.5,2226.58,2776.58,Smoothie,Grilled chicken salad,Salmon and quinoa,Protein bar
+64,Male,189,101,101,20,28.27,1876.25,2908.19,2908.19,Pancakes,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+31,Female,180,101,96,20,31.17,1819.0,2819.45,2544.45,Smoothie,Grilled chicken salad,Salmon and quinoa,Protein bar
+20,Female,183,78,81,14,23.29,1662.75,2577.26,2812.98,Eggs and toast,Rice and beans,Vegetable stir-fry,Protein bar
+18,Female,173,87,85,6,29.07,1700.25,2635.39,2268.72,Oatmeal with fruits,Sushi,Vegetable stir-fry,Hummus with carrots
+22,Male,194,91,94,18,24.18,2017.5,3127.12,3310.46,Greek yogurt,Grilled chicken salad,Steak with veggies,Cheese and crackers
+43,Male,184,70,62,24,20.68,1640.0,2542.0,2175.33,Smoothie,Burrito bowl,Tofu curry,Protein bar
+31,Male,197,91,84,14,23.45,1991.25,3086.44,2536.44,Eggs and toast,Rice and beans,Chicken soup,Nuts and fruits
+56,Male,155,62,55,19,25.81,1313.75,2036.31,1631.05,Greek yogurt,Rice and beans,Chicken soup,Dark chocolate
+44,Male,168,113,117,25,40.04,1965.0,3045.75,3221.75,Greek yogurt,Burrito bowl,Chicken soup,Protein bar
+26,Male,179,66,59,12,20.6,1653.75,2563.31,1921.65,Pancakes,Burrito bowl,Salmon and quinoa,Cheese and crackers
+32,Male,156,58,45,4,23.83,1400.0,2170.0,-1405.0,Greek yogurt,Grilled chicken salad,Chicken soup,Hummus with carrots
+32,Male,159,90,90,25,35.6,1738.75,2695.06,2695.06,Eggs and toast,Pasta with veggies,Chicken soup,Nuts and fruits
+43,Female,190,50,40,19,13.85,1311.5,2032.82,1453.88,Eggs and toast,Rice and beans,Steak with veggies,Hummus with carrots
+59,Female,181,51,55,12,15.57,1185.25,1837.14,2203.8,Smoothie,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+30,Male,183,109,107,22,32.55,2088.75,3237.56,3137.56,Smoothie,Burrito bowl,Chicken soup,Protein bar
+49,Male,177,97,86,15,30.96,1836.25,2846.19,2039.52,Smoothie,Grilled chicken salad,Tofu curry,Protein bar
+56,Female,164,78,82,22,29.0,1364.0,2114.2,2314.2,Greek yogurt,Burrito bowl,Chicken soup,Cheese and crackers
+49,Male,179,59,55,25,18.41,1468.75,2276.56,2100.56,Greek yogurt,Sushi,Salmon and quinoa,Protein bar
+21,Male,186,107,97,12,30.93,2132.5,3305.38,2388.71,Pancakes,Burrito bowl,Salmon and quinoa,Nuts and fruits
+47,Male,178,109,109,10,34.4,1972.5,3057.38,3057.38,Smoothie,Burrito bowl,Salmon and quinoa,Dark chocolate
+54,Female,171,70,74,17,23.94,1337.75,2073.51,2332.34,Oatmeal with fruits,Burrito bowl,Chicken soup,Hummus with carrots
+40,Female,153,77,81,22,32.89,1365.25,2116.14,2316.14,Pancakes,Pasta with veggies,Steak with veggies,Dark chocolate
+56,Female,169,83,76,22,29.06,1445.25,2240.14,1890.14,Oatmeal with fruits,Burrito bowl,Tofu curry,Protein bar
+62,Female,181,57,48,5,17.4,1230.25,1906.89,-73.11,Greek yogurt,Rice and beans,Chicken soup,Hummus with carrots
+32,Female,185,108,112,12,31.56,1915.25,2968.64,3335.3,Pancakes,Rice and beans,Steak with veggies,Cheese and crackers
+60,Male,199,98,97,16,24.75,1928.75,2989.56,2920.81,Pancakes,Grilled chicken salad,Steak with veggies,Dark chocolate
+46,Female,153,66,69,18,28.19,1225.25,1899.14,2082.47,Eggs and toast,Pasta with veggies,Chicken soup,Hummus with carrots
+53,Male,176,109,107,6,35.19,1930.0,2991.5,2624.83,Greek yogurt,Grilled chicken salad,Chicken soup,Hummus with carrots
+30,Male,166,94,86,14,34.11,1832.5,2840.38,2211.8,Greek yogurt,Rice and beans,Steak with veggies,Hummus with carrots
+49,Female,161,118,117,24,45.52,1780.25,2759.39,2713.55,Pancakes,Rice and beans,Steak with veggies,Nuts and fruits
+24,Female,171,81,80,17,27.7,1597.75,2476.51,2411.81,Greek yogurt,Sushi,Steak with veggies,Dark chocolate
+39,Male,166,93,98,11,33.75,1777.5,2755.12,3255.12,Pancakes,Burrito bowl,Chicken soup,Hummus with carrots
+45,Male,159,114,103,21,45.09,1913.75,2966.31,2390.12,Eggs and toast,Rice and beans,Steak with veggies,Dark chocolate
+19,Male,150,57,54,22,25.33,1417.5,2197.12,2047.12,Pancakes,Grilled chicken salad,Salmon and quinoa,Hummus with carrots
+59,Female,171,92,85,19,31.46,1532.75,2375.76,1970.5,Greek yogurt,Grilled chicken salad,Chicken soup,Cheese and crackers
+62,Female,175,50,37,5,16.33,1122.75,1740.26,-1119.74,Greek yogurt,Burrito bowl,Salmon and quinoa,Cheese and crackers
+23,Female,167,100,87,11,35.86,1767.75,2740.01,1440.01,Pancakes,Burrito bowl,Vegetable stir-fry,Cheese and crackers
+45,Female,199,73,62,25,18.43,1587.75,2461.01,1977.01,Pancakes,Sushi,Chicken soup,Protein bar
+45,Female,163,73,69,9,27.48,1362.75,2112.26,1623.37,Pancakes,Pasta with veggies,Vegetable stir-fry,Hummus with carrots
+61,Male,196,66,62,15,17.18,1585.0,2456.75,2163.42,Smoothie,Grilled chicken salad,Steak with veggies,Protein bar
+61,Female,178,54,56,18,17.04,1186.5,1839.08,1961.3,Greek yogurt,Burrito bowl,Steak with veggies,Dark chocolate
+37,Male,161,69,67,11,26.62,1516.25,2350.19,2150.19,Greek yogurt,Grilled chicken salad,Tofu curry,Protein bar
+47,Male,185,70,56,7,20.45,1626.25,2520.69,320.69,Smoothie,Burrito bowl,Steak with veggies,Dark chocolate
+28,Male,184,107,93,18,31.6,2085.0,3231.75,2376.19,Pancakes,Rice and beans,Vegetable stir-fry,Dark chocolate
+45,Female,161,80,68,23,30.86,1420.25,2201.39,1627.47,Eggs and toast,Grilled chicken salad,Steak with veggies,Dark chocolate
+42,Female,156,60,52,20,24.65,1204.0,1866.2,1426.2,Pancakes,Rice and beans,Chicken soup,Protein bar
+56,Female,178,101,89,16,31.88,1681.5,2606.33,1781.33,Pancakes,Grilled chicken salad,Steak with veggies,Hummus with carrots
+50,Male,160,64,56,21,25.0,1395.0,2162.25,1743.2,Smoothie,Pasta with veggies,Tofu curry,Protein bar
+18,Male,182,56,42,5,16.91,1612.5,2499.38,-580.62,Greek yogurt,Sushi,Steak with veggies,Hummus with carrots
+44,Male,155,77,68,16,32.05,1523.75,2361.81,1743.06,Pancakes,Rice and beans,Vegetable stir-fry,Hummus with carrots
+30,Male,196,100,102,16,26.03,2080.0,3224.0,3361.5,Greek yogurt,Burrito bowl,Vegetable stir-fry,Dark chocolate
+58,Male,164,107,100,25,39.78,1810.0,2805.5,2497.5,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Protein bar
+20,Male,181,54,52,18,16.48,1576.25,2443.19,2320.97,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+56,Female,160,54,42,23,21.09,1099.0,1703.45,1129.54,Eggs and toast,Rice and beans,Vegetable stir-fry,Cheese and crackers
+23,Female,172,57,51,13,19.27,1369.0,2121.95,1614.26,Eggs and toast,Grilled chicken salad,Tofu curry,Hummus with carrots
+25,Female,175,113,105,6,36.9,1937.75,3003.51,1536.85,Pancakes,Grilled chicken salad,Chicken soup,Cheese and crackers
+44,Female,183,59,63,22,17.62,1352.75,2096.76,2296.76,Greek yogurt,Grilled chicken salad,Tofu curry,Protein bar
+26,Male,195,87,75,6,22.88,1963.75,3043.81,843.81,Pancakes,Sushi,Salmon and quinoa,Protein bar
+54,Male,183,57,61,25,17.02,1448.75,2245.56,2421.56,Smoothie,Sushi,Tofu curry,Protein bar
+50,Female,178,74,69,17,23.36,1441.5,2234.33,1910.8,Eggs and toast,Burrito bowl,Steak with veggies,Hummus with carrots
+59,Male,153,115,112,11,49.13,1816.25,2815.19,2515.19,Pancakes,Rice and beans,Chicken soup,Nuts and fruits
+61,Female,166,99,93,7,35.93,1561.5,2420.33,1477.47,Smoothie,Pasta with veggies,Steak with veggies,Hummus with carrots
+41,Female,184,116,105,23,34.26,1944.0,3013.2,2487.11,Pancakes,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+32,Female,162,98,89,14,37.34,1671.5,2590.83,1883.68,Greek yogurt,Pasta with veggies,Chicken soup,Dark chocolate
+49,Male,190,85,74,14,23.55,1797.5,2786.12,1921.84,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+49,Female,188,117,105,14,33.1,1939.0,3005.45,2062.59,Greek yogurt,Sushi,Tofu curry,Hummus with carrots
+41,Female,164,90,90,5,33.46,1559.0,2416.45,2416.45,Greek yogurt,Rice and beans,Steak with veggies,Cheese and crackers
+58,Female,178,111,100,20,35.03,1771.5,2745.82,2140.83,Oatmeal with fruits,Grilled chicken salad,Salmon and quinoa,Dark chocolate
+29,Male,178,59,47,12,18.62,1562.5,2421.88,1321.88,Smoothie,Sushi,Vegetable stir-fry,Hummus with carrots
+56,Male,160,70,68,5,27.34,1425.0,2208.75,1768.75,Smoothie,Sushi,Tofu curry,Nuts and fruits
+19,Female,181,85,82,18,25.95,1725.25,2674.14,2490.8,Greek yogurt,Rice and beans,Vegetable stir-fry,Cheese and crackers
+20,Male,151,61,61,19,26.75,1458.75,2261.06,2261.06,Oatmeal with fruits,Rice and beans,Tofu curry,Protein bar
+54,Male,196,51,52,7,13.28,1470.0,2278.5,2435.64,Greek yogurt,Rice and beans,Chicken soup,Hummus with carrots
+34,Male,163,62,56,11,23.34,1473.75,2284.31,1684.31,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+19,Male,169,102,97,12,35.71,1986.25,3078.69,2620.35,Greek yogurt,Burrito bowl,Vegetable stir-fry,Cheese and crackers
+19,Male,171,81,86,8,27.7,1788.75,2772.56,3460.06,Eggs and toast,Rice and beans,Vegetable stir-fry,Dark chocolate
+45,Male,160,65,60,19,25.39,1430.0,2216.5,1927.03,Eggs and toast,Burrito bowl,Chicken soup,Dark chocolate
+40,Male,176,81,68,16,26.15,1715.0,2658.25,1764.5,Pancakes,Grilled chicken salad,Salmon and quinoa,Dark chocolate
+54,Male,152,81,78,10,35.06,1495.0,2317.25,1987.25,Greek yogurt,Burrito bowl,Tofu curry,Protein bar
+49,Male,166,60,64,23,21.77,1397.5,2166.12,2357.43,Smoothie,Pasta with veggies,Vegetable stir-fry,Cheese and crackers
+50,Male,193,59,53,20,15.84,1551.25,2404.44,2074.44,Pancakes,Burrito bowl,Chicken soup,Cheese and crackers
+18,Female,177,64,66,6,20.43,1495.25,2317.64,2684.3,Eggs and toast,Rice and beans,Salmon and quinoa,Dark chocolate
+36,Female,178,66,68,8,20.83,1431.5,2218.83,2493.83,Greek yogurt,Grilled chicken salad,Tofu curry,Dark chocolate
+19,Male,170,89,77,22,30.8,1862.5,2886.88,2286.88,Pancakes,Rice and beans,Chicken soup,Nuts and fruits
+61,Female,196,67,58,15,17.44,1429.0,2214.95,1554.95,Greek yogurt,Pasta with veggies,Tofu curry,Nuts and fruits
+43,Female,165,104,91,10,38.2,1695.25,2627.64,1197.64,Eggs and toast,Rice and beans,Vegetable stir-fry,Hummus with carrots
+49,Male,186,74,67,12,21.39,1662.5,2576.88,1935.21,Pancakes,Rice and beans,Salmon and quinoa,Hummus with carrots
+23,Male,169,108,95,9,37.81,2026.25,3140.69,1551.8,Eggs and toast,Rice and beans,Chicken soup,Cheese and crackers
+49,Male,155,71,60,20,29.55,1438.75,2230.06,1625.06,Oatmeal with fruits,Sushi,Salmon and quinoa,Cheese and crackers
+21,Female,168,79,79,19,27.99,1574.0,2439.7,2439.7,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Protein bar
+28,Female,154,93,83,6,39.21,1591.5,2466.83,633.49,Greek yogurt,Rice and beans,Salmon and quinoa,Protein bar
+34,Male,152,81,75,24,35.06,1595.0,2472.25,2197.25,Smoothie,Rice and beans,Salmon and quinoa,Nuts and fruits
+55,Male,150,100,87,7,44.44,1667.5,2584.62,541.77,Eggs and toast,Rice and beans,Steak with veggies,Hummus with carrots
+41,Male,187,95,96,13,27.17,1918.75,2974.06,3058.68,Smoothie,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+22,Female,164,70,59,8,26.03,1454.0,2253.7,741.2,Oatmeal with fruits,Sushi,Tofu curry,Nuts and fruits
+51,Female,183,81,86,24,24.19,1537.75,2383.51,2612.68,Pancakes,Grilled chicken salad,Chicken soup,Hummus with carrots
+23,Female,184,88,84,25,25.99,1754.0,2718.7,2542.7,Pancakes,Sushi,Steak with veggies,Protein bar
+39,Female,198,61,52,13,15.56,1491.5,2311.83,1550.29,Smoothie,Rice and beans,Chicken soup,Hummus with carrots
+28,Male,174,96,91,15,31.71,1912.5,2964.38,2597.71,Pancakes,Pasta with veggies,Chicken soup,Dark chocolate
+33,Male,173,67,60,13,22.39,1591.25,2466.44,1874.13,Eggs and toast,Burrito bowl,Vegetable stir-fry,Dark chocolate
+50,Male,161,70,71,16,27.01,1461.25,2264.94,2333.69,Smoothie,Burrito bowl,Vegetable stir-fry,Dark chocolate
+26,Male,167,62,67,14,22.23,1538.75,2385.06,2777.92,Greek yogurt,Rice and beans,Steak with veggies,Cheese and crackers
+23,Female,164,70,64,25,26.03,1449.0,2245.95,1981.95,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Protein bar
+33,Female,193,57,52,19,15.3,1450.25,2247.89,1958.41,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Protein bar
+46,Male,165,95,84,11,34.89,1756.25,2722.19,1622.19,Eggs and toast,Sushi,Vegetable stir-fry,Cheese and crackers
+20,Male,176,56,58,11,18.08,1565.0,2425.75,2625.75,Greek yogurt,Rice and beans,Chicken soup,Nuts and fruits
+37,Female,157,72,63,11,29.21,1355.25,2100.64,1200.64,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Dark chocolate
+53,Male,195,71,68,16,18.67,1668.75,2586.56,2380.31,Pancakes,Pasta with veggies,Chicken soup,Dark chocolate
+36,Female,174,71,57,5,23.45,1456.5,2257.58,-822.42,Smoothie,Sushi,Tofu curry,Nuts and fruits
+43,Male,166,78,65,15,28.31,1607.5,2491.62,1538.29,Oatmeal with fruits,Pasta with veggies,Chicken soup,Hummus with carrots
+20,Male,178,62,49,13,19.57,1637.5,2538.12,1438.12,Smoothie,Grilled chicken salad,Tofu curry,Hummus with carrots
+36,Male,157,51,45,15,20.69,1316.25,2040.19,1600.19,Pancakes,Grilled chicken salad,Salmon and quinoa,Protein bar
+37,Male,164,78,79,14,29.0,1625.0,2518.75,2597.32,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Cheese and crackers
+49,Male,176,101,97,18,32.61,1870.0,2898.5,2654.06,Eggs and toast,Pasta with veggies,Tofu curry,Protein bar
+24,Male,195,76,65,19,19.99,1863.75,2888.81,2251.97,Eggs and toast,Grilled chicken salad,Tofu curry,Hummus with carrots
+58,Male,199,99,100,20,25.0,1948.75,3020.56,3075.56,Greek yogurt,Sushi,Chicken soup,Nuts and fruits
+50,Female,156,72,62,5,29.59,1284.0,1990.2,-209.8,Oatmeal with fruits,Pasta with veggies,Tofu curry,Protein bar
+57,Female,152,93,92,21,40.25,1434.0,2222.7,2170.32,Oatmeal with fruits,Burrito bowl,Steak with veggies,Dark chocolate
+56,Female,178,71,68,15,22.41,1381.5,2141.33,1921.33,Smoothie,Pasta with veggies,Salmon and quinoa,Dark chocolate
+35,Female,193,92,95,22,24.7,1790.25,2774.89,2924.89,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+57,Female,173,86,77,21,28.73,1495.25,2317.64,1846.21,Oatmeal with fruits,Burrito bowl,Tofu curry,Hummus with carrots
+18,Male,152,110,100,20,47.61,1965.0,3045.75,2495.75,Greek yogurt,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+28,Male,169,105,93,9,36.76,1971.25,3055.44,1588.77,Pancakes,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+45,Female,195,52,44,18,13.68,1352.75,2096.76,1607.87,Eggs and toast,Rice and beans,Tofu curry,Cheese and crackers
+42,Male,164,112,115,6,41.64,1940.0,3007.0,3557.0,Eggs and toast,Rice and beans,Steak with veggies,Protein bar
+40,Female,174,68,62,9,22.46,1406.5,2180.08,1446.74,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+48,Female,179,72,69,6,22.47,1437.75,2228.51,1678.51,Greek yogurt,Rice and beans,Tofu curry,Protein bar
+47,Male,163,78,77,4,29.36,1568.75,2431.56,2156.56,Greek yogurt,Rice and beans,Steak with veggies,Hummus with carrots
+59,Male,156,79,76,16,32.46,1475.0,2286.25,2080.0,Smoothie,Grilled chicken salad,Steak with veggies,Dark chocolate
+52,Male,166,88,81,24,31.93,1662.5,2576.88,2256.04,Eggs and toast,Grilled chicken salad,Chicken soup,Cheese and crackers
+24,Female,193,74,62,17,19.87,1665.25,2581.14,1804.67,Smoothie,Pasta with veggies,Steak with veggies,Protein bar
+33,Male,169,57,58,16,19.96,1466.25,2272.69,2341.44,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+43,Female,185,107,100,7,31.26,1850.25,2867.89,1767.89,Smoothie,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+19,Female,158,65,67,10,26.04,1381.5,2141.33,2361.33,Smoothie,Sushi,Tofu curry,Protein bar
+18,Female,187,50,54,25,14.3,1417.75,2197.51,2373.51,Pancakes,Rice and beans,Tofu curry,Protein bar
+29,Male,197,54,44,13,13.91,1631.25,2528.44,1682.28,Smoothie,Pasta with veggies,Steak with veggies,Dark chocolate
+22,Male,171,52,49,10,17.78,1483.75,2299.81,1969.81,Greek yogurt,Rice and beans,Salmon and quinoa,Protein bar
+54,Female,151,114,111,24,50.0,1652.75,2561.76,2424.26,Smoothie,Burrito bowl,Chicken soup,Cheese and crackers
+49,Male,173,53,53,18,17.71,1371.25,2125.44,2125.44,Eggs and toast,Grilled chicken salad,Salmon and quinoa,Cheese and crackers
+26,Male,157,113,108,18,45.84,1986.25,3078.69,2773.13,Smoothie,Sushi,Steak with veggies,Dark chocolate
+58,Male,160,59,64,7,23.05,1305.0,2022.75,2808.46,Oatmeal with fruits,Burrito bowl,Steak with veggies,Hummus with carrots
+52,Female,162,70,72,9,26.67,1291.5,2001.82,2246.27,Eggs and toast,Burrito bowl,Salmon and quinoa,Dark chocolate
+36,Female,166,95,88,23,34.48,1646.5,2552.08,2217.29,Oatmeal with fruits,Burrito bowl,Chicken soup,Cheese and crackers
+33,Male,157,76,69,8,30.83,1581.25,2450.94,1488.44,Eggs and toast,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+20,Female,170,115,108,23,39.79,1951.5,3024.82,2690.04,Greek yogurt,Pasta with veggies,Tofu curry,Nuts and fruits
+37,Male,167,90,94,15,32.27,1763.75,2733.81,3027.15,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Protein bar
+41,Male,179,62,59,4,19.35,1538.75,2385.06,1560.06,Greek yogurt,Pasta with veggies,Tofu curry,Protein bar
+50,Male,167,58,56,11,20.8,1378.75,2137.06,1937.06,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+41,Male,195,85,84,4,22.35,1868.75,2896.56,2621.56,Pancakes,Burrito bowl,Steak with veggies,Cheese and crackers
+28,Female,196,107,109,8,27.85,1994.0,3090.7,3365.7,Eggs and toast,Sushi,Chicken soup,Protein bar
+25,Female,180,103,91,25,31.79,1869.0,2896.95,2368.95,Greek yogurt,Pasta with veggies,Salmon and quinoa,Dark chocolate
+53,Female,187,61,64,9,17.44,1352.75,2096.76,2463.43,Eggs and toast,Burrito bowl,Chicken soup,Dark chocolate
+55,Male,181,63,63,24,19.23,1491.25,2311.44,2311.44,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Cheese and crackers
+57,Male,160,83,77,6,32.42,1550.0,2402.5,1302.5,Pancakes,Sushi,Tofu curry,Protein bar
+37,Male,194,102,96,18,27.1,2052.5,3181.38,2814.71,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Dark chocolate
+52,Female,174,69,67,8,22.79,1356.5,2102.58,1827.58,Eggs and toast,Sushi,Salmon and quinoa,Protein bar
+42,Male,182,65,70,17,19.62,1582.5,2452.88,2776.4,Pancakes,Rice and beans,Chicken soup,Protein bar
+52,Female,187,119,121,21,34.03,1937.75,3003.51,3108.27,Pancakes,Pasta with veggies,Salmon and quinoa,Dark chocolate
+42,Female,190,105,100,19,29.09,1866.5,2893.08,2603.6,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Nuts and fruits
+46,Female,157,107,110,9,43.41,1660.25,2573.39,2940.05,Greek yogurt,Grilled chicken salad,Tofu curry,Dark chocolate
+35,Female,160,53,46,17,20.7,1194.0,1850.7,1397.76,Eggs and toast,Pasta with veggies,Steak with veggies,Cheese and crackers
+63,Female,171,53,42,11,18.13,1122.75,1740.26,640.26,Smoothie,Sushi,Tofu curry,Hummus with carrots
+35,Female,173,69,65,10,23.05,1435.25,2224.64,1784.64,Smoothie,Burrito bowl,Tofu curry,Dark chocolate
+19,Male,190,59,53,11,16.34,1687.5,2615.62,2015.62,Oatmeal with fruits,Sushi,Vegetable stir-fry,Protein bar
+52,Male,166,73,64,16,26.49,1512.5,2344.38,1725.62,Eggs and toast,Rice and beans,Steak with veggies,Protein bar
+33,Female,161,75,71,9,28.93,1430.25,2216.89,1728.0,Eggs and toast,Burrito bowl,Steak with veggies,Dark chocolate
+58,Female,195,86,78,21,22.62,1627.75,2523.01,2103.96,Oatmeal with fruits,Sushi,Vegetable stir-fry,Hummus with carrots
+53,Male,181,103,96,5,31.44,1901.25,2946.94,1406.94,Eggs and toast,Pasta with veggies,Chicken soup,Dark chocolate
+50,Female,164,70,71,11,26.03,1314.0,2036.7,2136.7,Greek yogurt,Rice and beans,Steak with veggies,Hummus with carrots
+21,Female,165,87,87,14,31.96,1635.25,2534.64,2534.64,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Hummus with carrots
+50,Male,171,95,99,4,32.49,1773.75,2749.31,3849.31,Greek yogurt,Rice and beans,Vegetable stir-fry,Cheese and crackers
+31,Female,177,53,42,25,16.92,1320.25,2046.39,1562.39,Eggs and toast,Burrito bowl,Steak with veggies,Protein bar
+38,Female,169,109,111,9,38.16,1795.25,2782.64,3027.08,Oatmeal with fruits,Grilled chicken salad,Chicken soup,Protein bar
+37,Female,182,106,98,19,32.0,1851.5,2869.82,2406.67,Eggs and toast,Burrito bowl,Steak with veggies,Hummus with carrots
+25,Male,159,94,90,23,37.18,1813.75,2811.31,2620.01,Oatmeal with fruits,Sushi,Tofu curry,Protein bar
+24,Male,189,69,72,15,19.32,1756.25,2722.19,2942.19,Eggs and toast,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+20,Male,181,66,69,14,20.15,1696.25,2629.19,2864.9,Greek yogurt,Sushi,Vegetable stir-fry,Hummus with carrots
+34,Female,199,53,44,13,13.38,1442.75,2236.26,1474.72,Greek yogurt,Grilled chicken salad,Tofu curry,Protein bar
+50,Female,182,63,63,6,19.02,1356.5,2102.58,2102.58,Eggs and toast,Burrito bowl,Chicken soup,Nuts and fruits
+29,Male,151,52,41,16,22.81,1323.75,2051.81,1295.56,Oatmeal with fruits,Rice and beans,Tofu curry,Cheese and crackers
+39,Female,182,107,101,6,32.3,1851.5,2869.82,1769.83,Smoothie,Pasta with veggies,Tofu curry,Protein bar
+39,Female,182,104,90,18,31.4,1821.5,2823.32,1967.77,Greek yogurt,Rice and beans,Chicken soup,Nuts and fruits
+63,Female,190,53,48,19,14.68,1241.5,1924.32,1634.85,Greek yogurt,Burrito bowl,Tofu curry,Dark chocolate
+47,Female,162,73,75,16,27.82,1346.5,2087.08,2224.58,Smoothie,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+55,Female,179,83,83,20,25.9,1512.75,2344.76,2344.76,Eggs and toast,Rice and beans,Steak with veggies,Nuts and fruits
+55,Male,182,79,84,6,23.85,1657.5,2569.12,3485.79,Oatmeal with fruits,Burrito bowl,Tofu curry,Hummus with carrots
+62,Female,162,68,54,23,25.91,1221.5,1893.32,1223.76,Eggs and toast,Sushi,Vegetable stir-fry,Hummus with carrots
+25,Male,175,80,70,14,26.12,1773.75,2749.31,1963.6,Pancakes,Pasta with veggies,Steak with veggies,Protein bar
+44,Female,171,109,100,24,37.28,1777.75,2755.51,2343.01,Greek yogurt,Rice and beans,Steak with veggies,Dark chocolate
+44,Male,188,109,98,22,30.84,2050.0,3177.5,2627.5,Pancakes,Grilled chicken salad,Tofu curry,Hummus with carrots
+51,Female,151,68,66,25,29.82,1207.75,1872.01,1784.01,Greek yogurt,Sushi,Vegetable stir-fry,Hummus with carrots
+38,Male,187,98,92,14,28.02,1963.75,3043.81,2572.38,Greek yogurt,Burrito bowl,Tofu curry,Dark chocolate
+47,Female,188,112,108,19,31.69,1899.0,2943.45,2711.87,Pancakes,Pasta with veggies,Chicken soup,Cheese and crackers
+50,Male,175,71,62,24,23.18,1558.75,2416.06,2003.56,Pancakes,Grilled chicken salad,Steak with veggies,Hummus with carrots
+45,Female,195,73,70,6,19.2,1562.75,2422.26,1872.26,Eggs and toast,Burrito bowl,Tofu curry,Nuts and fruits
+64,Male,199,79,83,25,19.95,1718.75,2664.06,2840.06,Pancakes,Burrito bowl,Steak with veggies,Protein bar
+50,Female,164,107,108,9,39.78,1684.0,2610.2,2732.42,Eggs and toast,Rice and beans,Vegetable stir-fry,Hummus with carrots
+22,Male,183,80,80,17,23.89,1838.75,2850.06,2850.06,Eggs and toast,Rice and beans,Salmon and quinoa,Hummus with carrots
+36,Male,191,113,112,21,30.98,2148.75,3330.56,3278.18,Eggs and toast,Grilled chicken salad,Tofu curry,Cheese and crackers
+21,Female,193,68,73,20,18.26,1620.25,2511.39,2786.39,Greek yogurt,Burrito bowl,Tofu curry,Nuts and fruits
+52,Female,198,97,96,7,24.74,1786.5,2769.08,2611.93,Greek yogurt,Rice and beans,Steak with veggies,Protein bar
+34,Male,189,94,80,18,26.32,1956.25,3032.19,2176.63,Pancakes,Pasta with veggies,Vegetable stir-fry,Hummus with carrots
+61,Female,160,104,98,14,40.62,1574.0,2439.7,1968.27,Greek yogurt,Pasta with veggies,Chicken soup,Protein bar
+45,Male,152,104,94,6,45.01,1770.0,2743.5,910.17,Pancakes,Burrito bowl,Vegetable stir-fry,Dark chocolate
+47,Male,155,67,57,6,27.89,1408.75,2183.56,350.23,Greek yogurt,Rice and beans,Tofu curry,Hummus with carrots
+46,Male,158,112,107,19,44.86,1882.5,2917.88,2628.4,Oatmeal with fruits,Grilled chicken salad,Chicken soup,Hummus with carrots
+63,Female,155,96,98,8,39.96,1452.75,2251.76,2526.76,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+23,Male,158,106,99,24,42.46,1937.5,3003.12,2682.29,Pancakes,Grilled chicken salad,Salmon and quinoa,Cheese and crackers
+52,Male,188,94,93,13,26.6,1860.0,2883.0,2798.38,Greek yogurt,Pasta with veggies,Steak with veggies,Hummus with carrots
+58,Female,180,82,84,22,25.31,1494.0,2315.7,2415.7,Greek yogurt,Rice and beans,Vegetable stir-fry,Protein bar
+54,Female,181,66,57,7,20.15,1360.25,2108.39,694.1,Eggs and toast,Rice and beans,Vegetable stir-fry,Nuts and fruits
+41,Female,190,119,106,22,32.96,2011.5,3117.82,2467.83,Smoothie,Pasta with veggies,Salmon and quinoa,Protein bar
+46,Female,199,53,50,14,13.38,1382.75,2143.26,1907.55,Pancakes,Grilled chicken salad,Tofu curry,Cheese and crackers
+63,Male,161,69,64,5,26.62,1386.25,2148.69,1048.69,Smoothie,Grilled chicken salad,Steak with veggies,Nuts and fruits
+48,Male,157,96,94,13,38.95,1706.25,2644.69,2475.46,Smoothie,Burrito bowl,Vegetable stir-fry,Protein bar
+52,Male,157,64,69,14,25.96,1366.25,2117.69,2510.54,Pancakes,Sushi,Chicken soup,Protein bar
+50,Male,199,119,117,23,30.05,2188.75,3392.56,3296.91,Greek yogurt,Rice and beans,Vegetable stir-fry,Dark chocolate
+38,Female,177,96,89,19,30.64,1715.25,2658.64,2253.37,Pancakes,Rice and beans,Steak with veggies,Cheese and crackers
+49,Male,169,58,60,22,20.31,1396.25,2164.19,2264.19,Smoothie,Rice and beans,Vegetable stir-fry,Dark chocolate
+40,Male,196,65,63,14,16.92,1680.0,2604.0,2446.86,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+50,Female,156,118,121,17,48.49,1744.0,2703.2,2897.32,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Dark chocolate
+20,Male,160,110,107,5,42.97,2005.0,3107.75,2447.75,Pancakes,Sushi,Vegetable stir-fry,Cheese and crackers
+35,Male,169,59,63,8,20.66,1476.25,2288.19,2838.19,Pancakes,Grilled chicken salad,Chicken soup,Hummus with carrots
+42,Male,165,99,103,8,36.36,1816.25,2815.19,3365.19,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Hummus with carrots
+59,Male,153,52,45,22,22.21,1186.25,1838.69,1488.69,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Nuts and fruits
+48,Male,155,119,110,24,49.53,1923.75,2981.81,2569.31,Oatmeal with fruits,Pasta with veggies,Vegetable stir-fry,Hummus with carrots
+20,Male,171,100,94,15,34.2,1973.75,3059.31,2619.31,Greek yogurt,Rice and beans,Chicken soup,Dark chocolate
+57,Female,175,68,70,21,22.2,1327.75,2058.01,2162.77,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+63,Female,152,91,89,7,39.39,1384.0,2145.2,1830.91,Pancakes,Sushi,Vegetable stir-fry,Cheese and crackers
+41,Male,190,84,81,25,23.27,1827.5,2832.62,2700.62,Pancakes,Grilled chicken salad,Steak with veggies,Nuts and fruits
+49,Male,191,95,96,20,26.04,1903.75,2950.81,3005.81,Smoothie,Pasta with veggies,Steak with veggies,Nuts and fruits
+64,Female,163,75,61,13,28.23,1287.75,1996.01,811.4,Greek yogurt,Sushi,Chicken soup,Protein bar
+39,Male,160,118,106,23,46.09,1990.0,3084.5,2510.59,Smoothie,Grilled chicken salad,Tofu curry,Protein bar
+40,Male,167,113,108,9,40.52,1978.75,3067.06,2455.95,Smoothie,Pasta with veggies,Steak with veggies,Nuts and fruits
+19,Male,161,86,77,17,33.18,1776.25,2753.19,2170.83,Oatmeal with fruits,Rice and beans,Tofu curry,Hummus with carrots
+44,Female,172,98,95,14,33.13,1674.0,2594.7,2358.99,Pancakes,Rice and beans,Salmon and quinoa,Protein bar
+59,Male,161,70,59,14,27.01,1416.25,2195.19,1330.9,Smoothie,Rice and beans,Steak with veggies,Cheese and crackers
+19,Female,162,113,107,21,43.06,1886.5,2924.08,2609.79,Oatmeal with fruits,Sushi,Steak with veggies,Dark chocolate
+43,Male,174,54,53,25,17.84,1417.5,2197.12,2153.12,Greek yogurt,Rice and beans,Chicken soup,Protein bar
+34,Female,194,119,115,21,31.62,2071.5,3210.82,3001.3,Smoothie,Burrito bowl,Tofu curry,Nuts and fruits
+57,Female,168,53,49,14,18.78,1134.0,1757.7,1443.41,Pancakes,Grilled chicken salad,Steak with veggies,Hummus with carrots
+50,Male,195,88,81,24,23.14,1853.75,2873.31,2552.48,Smoothie,Sushi,Steak with veggies,Dark chocolate
+26,Female,185,84,71,15,24.54,1705.25,2643.14,1689.8,Greek yogurt,Rice and beans,Chicken soup,Protein bar
+60,Male,194,50,45,8,13.29,1417.5,2197.12,1509.62,Smoothie,Grilled chicken salad,Chicken soup,Hummus with carrots
+56,Female,157,73,66,12,29.62,1270.25,1968.89,1327.22,Pancakes,Pasta with veggies,Tofu curry,Hummus with carrots
+46,Male,178,106,104,12,33.46,1947.5,3018.62,2835.29,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Hummus with carrots
+59,Male,181,119,117,25,36.32,2031.25,3148.44,3060.44,Pancakes,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+43,Female,193,90,92,13,24.16,1730.25,2681.89,2851.12,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Cheese and crackers
+52,Male,167,103,94,25,36.93,1818.75,2819.06,2423.06,Eggs and toast,Pasta with veggies,Steak with veggies,Hummus with carrots
+42,Male,155,95,90,22,39.54,1713.75,2656.31,2406.31,Pancakes,Burrito bowl,Tofu curry,Dark chocolate
+41,Female,167,109,104,4,39.08,1767.75,2740.01,1365.01,Pancakes,Grilled chicken salad,Steak with veggies,Protein bar
+30,Male,168,109,114,10,38.62,1995.0,3092.25,3642.25,Greek yogurt,Burrito bowl,Tofu curry,Dark chocolate
+24,Male,171,106,95,7,36.25,2013.75,3121.31,1392.74,Smoothie,Grilled chicken salad,Tofu curry,Nuts and fruits
+53,Female,186,80,71,4,23.12,1536.5,2381.58,-93.42,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Nuts and fruits
+62,Female,181,73,59,18,22.28,1390.25,2154.89,1299.33,Oatmeal with fruits,Burrito bowl,Steak with veggies,Dark chocolate
+37,Male,190,85,85,11,23.55,1857.5,2879.12,2879.12,Greek yogurt,Grilled chicken salad,Chicken soup,Cheese and crackers
+18,Male,152,79,70,15,34.19,1655.0,2565.25,1905.25,Greek yogurt,Rice and beans,Steak with veggies,Nuts and fruits
+25,Female,177,73,70,25,23.3,1550.25,2402.89,2270.89,Smoothie,Grilled chicken salad,Tofu curry,Nuts and fruits
+63,Female,159,79,71,25,31.25,1307.75,2027.01,1675.01,Smoothie,Sushi,Vegetable stir-fry,Dark chocolate
+33,Male,184,56,44,21,16.54,1550.0,2402.5,1773.93,Pancakes,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+31,Female,178,84,73,18,26.51,1636.5,2536.58,1864.35,Eggs and toast,Sushi,Tofu curry,Cheese and crackers
+29,Male,164,104,92,20,38.67,1925.0,2983.75,2323.75,Smoothie,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+40,Male,182,63,64,17,19.02,1572.5,2437.38,2502.08,Greek yogurt,Grilled chicken salad,Chicken soup,Cheese and crackers
+32,Male,156,59,45,17,24.24,1410.0,2185.5,1279.62,Smoothie,Burrito bowl,Tofu curry,Protein bar
+45,Male,161,65,51,21,25.08,1436.25,2226.19,1492.85,Oatmeal with fruits,Rice and beans,Vegetable stir-fry,Cheese and crackers
+51,Male,198,103,100,23,26.27,2017.5,3127.12,2983.65,Eggs and toast,Rice and beans,Tofu curry,Cheese and crackers
+19,Female,179,119,114,21,37.14,2052.75,3181.76,2919.86,Pancakes,Pasta with veggies,Steak with veggies,Protein bar
+49,Female,170,93,98,19,32.18,1586.5,2459.08,2748.55,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Hummus with carrots
+40,Female,180,94,82,4,29.01,1704.0,2641.2,-658.8,Oatmeal with fruits,Burrito bowl,Steak with veggies,Nuts and fruits
+39,Female,173,105,105,14,35.08,1775.25,2751.64,2751.64,Eggs and toast,Rice and beans,Steak with veggies,Cheese and crackers
+42,Male,169,106,110,18,37.11,1911.25,2962.44,3206.88,Pancakes,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+39,Male,186,70,61,15,20.23,1672.5,2592.38,1932.38,Greek yogurt,Rice and beans,Salmon and quinoa,Dark chocolate
+39,Male,153,117,109,11,49.98,1936.25,3001.19,2201.19,Pancakes,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+59,Male,177,99,100,25,31.6,1806.25,2799.69,2843.69,Smoothie,Grilled chicken salad,Salmon and quinoa,Protein bar
+23,Female,193,82,82,23,22.01,1750.25,2712.89,2712.89,Oatmeal with fruits,Rice and beans,Tofu curry,Nuts and fruits
+32,Male,169,56,56,9,19.61,1461.25,2264.94,2264.94,Smoothie,Rice and beans,Tofu curry,Nuts and fruits
+60,Male,173,119,107,6,39.76,1976.25,3063.19,863.19,Greek yogurt,Sushi,Vegetable stir-fry,Nuts and fruits
+54,Female,199,64,56,16,16.16,1452.75,2251.76,1701.76,Smoothie,Burrito bowl,Tofu curry,Hummus with carrots
+50,Female,198,81,77,16,20.66,1636.5,2536.58,2261.58,Pancakes,Burrito bowl,Chicken soup,Hummus with carrots
+25,Female,181,69,61,5,21.06,1535.25,2379.64,619.64,Smoothie,Rice and beans,Steak with veggies,Dark chocolate
+61,Female,190,64,57,8,17.73,1361.5,2110.33,1147.83,Greek yogurt,Grilled chicken salad,Steak with veggies,Protein bar
+61,Male,185,97,100,20,28.34,1826.25,2830.69,2995.69,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+22,Male,183,70,70,9,20.9,1738.75,2695.06,2695.06,Greek yogurt,Grilled chicken salad,Tofu curry,Nuts and fruits
+56,Female,185,91,89,5,26.59,1625.25,2519.14,2079.14,Pancakes,Burrito bowl,Salmon and quinoa,Nuts and fruits
+21,Male,151,75,69,7,32.89,1593.75,2470.31,1527.46,Greek yogurt,Sushi,Steak with veggies,Nuts and fruits
+23,Male,164,63,56,25,23.42,1545.0,2394.75,2086.75,Oatmeal with fruits,Rice and beans,Steak with veggies,Hummus with carrots
+62,Male,183,106,101,14,31.65,1898.75,2943.06,2550.21,Greek yogurt,Pasta with veggies,Tofu curry,Dark chocolate
+49,Female,185,86,80,11,25.13,1610.25,2495.89,1895.89,Smoothie,Sushi,Chicken soup,Cheese and crackers
+47,Male,155,107,112,15,44.54,1808.75,2803.56,3170.23,Smoothie,Pasta with veggies,Chicken soup,Protein bar
+64,Female,188,70,59,11,19.81,1394.0,2160.7,1060.7,Smoothie,Sushi,Tofu curry,Nuts and fruits
+52,Male,191,118,108,14,32.35,2118.75,3284.06,2498.35,Pancakes,Grilled chicken salad,Tofu curry,Dark chocolate
+57,Male,161,52,47,25,20.06,1246.25,1931.69,1711.69,Smoothie,Burrito bowl,Salmon and quinoa,Cheese and crackers
+33,Male,152,86,79,23,37.22,1650.0,2557.5,2222.72,Pancakes,Pasta with veggies,Tofu curry,Dark chocolate
+30,Female,194,98,86,11,26.04,1881.5,2916.32,1716.33,Pancakes,Sushi,Chicken soup,Hummus with carrots
+59,Male,167,68,63,11,24.38,1433.75,2222.31,1722.31,Greek yogurt,Burrito bowl,Tofu curry,Cheese and crackers
+47,Female,189,61,55,20,17.08,1395.25,2162.64,1832.64,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Dark chocolate
+36,Female,170,110,110,23,38.06,1821.5,2823.32,2823.32,Greek yogurt,Rice and beans,Salmon and quinoa,Hummus with carrots
+34,Female,164,90,87,23,33.46,1594.0,2470.7,2327.22,Greek yogurt,Sushi,Salmon and quinoa,Dark chocolate
+36,Male,182,82,72,19,24.76,1782.5,2762.88,2183.93,Pancakes,Rice and beans,Salmon and quinoa,Dark chocolate
+45,Male,184,99,101,17,29.24,1920.0,2976.0,3105.41,Pancakes,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+43,Male,175,117,120,14,38.2,2053.75,3183.31,3419.03,Smoothie,Rice and beans,Tofu curry,Hummus with carrots
+54,Male,157,82,72,10,33.27,1536.25,2381.19,1281.19,Smoothie,Rice and beans,Steak with veggies,Nuts and fruits
+43,Female,185,73,67,19,21.33,1510.25,2340.89,1993.52,Greek yogurt,Sushi,Tofu curry,Protein bar
+40,Female,197,110,105,16,28.34,1970.25,3053.89,2710.14,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+26,Female,179,110,111,18,34.33,1927.75,2988.01,3049.12,Eggs and toast,Rice and beans,Salmon and quinoa,Hummus with carrots
+29,Male,172,77,65,19,26.03,1705.0,2642.75,1948.01,Smoothie,Burrito bowl,Vegetable stir-fry,Dark chocolate
+18,Female,191,107,94,24,29.33,2012.75,3119.76,2523.93,Eggs and toast,Pasta with veggies,Chicken soup,Hummus with carrots
+18,Male,193,92,92,12,24.7,2041.25,3163.94,3163.94,Smoothie,Rice and beans,Chicken soup,Protein bar
+64,Female,163,90,78,6,33.87,1437.75,2228.51,28.51,Pancakes,Grilled chicken salad,Tofu curry,Protein bar
+51,Male,163,88,88,22,33.12,1648.75,2555.56,2555.56,Greek yogurt,Rice and beans,Tofu curry,Nuts and fruits
+49,Male,151,98,100,23,42.98,1683.75,2609.81,2705.46,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Nuts and fruits
+42,Female,186,66,60,8,19.08,1451.5,2249.83,1424.83,Greek yogurt,Grilled chicken salad,Steak with veggies,Protein bar
+57,Female,154,119,106,13,50.18,1706.5,2645.08,1545.08,Smoothie,Sushi,Chicken soup,Cheese and crackers
+62,Female,187,119,123,20,34.03,1887.75,2926.01,3146.01,Smoothie,Grilled chicken salad,Salmon and quinoa,Cheese and crackers
+18,Female,194,114,103,18,30.29,2101.5,3257.32,2585.1,Greek yogurt,Sushi,Vegetable stir-fry,Dark chocolate
+33,Male,190,54,49,11,14.96,1567.5,2429.62,1929.62,Smoothie,Grilled chicken salad,Steak with veggies,Nuts and fruits
+56,Female,196,51,46,18,13.28,1294.0,2005.7,1700.14,Eggs and toast,Pasta with veggies,Steak with veggies,Dark chocolate
+22,Female,163,71,61,24,26.72,1457.75,2259.51,1801.18,Eggs and toast,Pasta with veggies,Salmon and quinoa,Nuts and fruits
+39,Female,188,106,110,17,29.99,1879.0,2912.45,3171.27,Smoothie,Grilled chicken salad,Salmon and quinoa,Protein bar
+46,Male,174,115,119,23,37.98,2012.5,3119.38,3310.68,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+20,Male,169,65,63,10,22.76,1611.25,2497.44,2277.44,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Cheese and crackers
+29,Female,151,100,93,24,43.86,1637.75,2538.51,2217.68,Smoothie,Sushi,Salmon and quinoa,Protein bar
+43,Male,188,88,84,15,24.9,1845.0,2859.75,2566.42,Smoothie,Sushi,Steak with veggies,Dark chocolate
+33,Female,155,89,87,20,37.04,1532.75,2375.76,2265.76,Greek yogurt,Burrito bowl,Steak with veggies,Dark chocolate
+54,Male,166,87,89,20,31.57,1642.5,2545.88,2655.88,Oatmeal with fruits,Sushi,Chicken soup,Hummus with carrots
+39,Male,174,109,100,13,36.0,1987.5,3080.62,2319.09,Eggs and toast,Burrito bowl,Salmon and quinoa,Nuts and fruits
+46,Male,177,108,113,22,34.47,1961.25,3039.94,3289.94,Greek yogurt,Grilled chicken salad,Tofu curry,Dark chocolate
+31,Male,151,59,54,17,25.88,1383.75,2144.81,1821.28,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Protein bar
+45,Female,184,113,112,14,33.38,1894.0,2935.7,2857.13,Smoothie,Grilled chicken salad,Tofu curry,Dark chocolate
+22,Female,186,112,101,5,32.37,2011.5,3117.82,697.83,Smoothie,Rice and beans,Steak with veggies,Cheese and crackers
+64,Female,154,98,84,21,41.32,1461.5,2265.33,1531.99,Greek yogurt,Rice and beans,Tofu curry,Nuts and fruits
+47,Male,150,113,101,10,50.22,1837.5,2848.12,1528.12,Smoothie,Burrito bowl,Steak with veggies,Hummus with carrots
+63,Female,189,81,75,15,22.68,1515.25,2348.64,1908.64,Pancakes,Sushi,Steak with veggies,Nuts and fruits
+22,Female,161,56,53,5,21.6,1295.25,2007.64,1347.64,Greek yogurt,Sushi,Steak with veggies,Cheese and crackers
+29,Female,185,70,71,23,20.45,1550.25,2402.89,2450.71,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Cheese and crackers
+33,Male,194,69,65,21,18.33,1742.5,2700.88,2491.35,Greek yogurt,Pasta with veggies,Steak with veggies,Cheese and crackers
+43,Male,172,75,77,9,25.35,1615.0,2503.25,2747.69,Eggs and toast,Rice and beans,Chicken soup,Cheese and crackers
+43,Male,196,117,118,13,30.46,2185.0,3386.75,3471.37,Greek yogurt,Rice and beans,Tofu curry,Protein bar
+38,Female,180,64,60,23,19.75,1414.0,2191.7,2000.4,Smoothie,Grilled chicken salad,Chicken soup,Hummus with carrots
+56,Female,160,63,58,18,24.61,1189.0,1842.95,1537.39,Smoothie,Rice and beans,Chicken soup,Cheese and crackers
+53,Female,159,76,72,8,30.06,1327.75,2058.01,1508.01,Pancakes,Grilled chicken salad,Salmon and quinoa,Cheese and crackers
+50,Male,152,89,87,23,38.52,1595.0,2472.25,2376.6,Pancakes,Burrito bowl,Salmon and quinoa,Dark chocolate
+47,Male,163,107,111,6,40.27,1858.75,2881.06,3614.4,Pancakes,Sushi,Salmon and quinoa,Hummus with carrots
+54,Female,165,77,75,8,28.28,1370.25,2123.89,1848.89,Oatmeal with fruits,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+40,Male,159,75,65,11,29.67,1548.75,2400.56,1400.56,Pancakes,Sushi,Salmon and quinoa,Hummus with carrots
+27,Male,178,112,113,11,35.35,2102.5,3258.88,3358.88,Oatmeal with fruits,Sushi,Tofu curry,Hummus with carrots
+22,Male,159,115,118,11,45.49,2038.75,3160.06,3460.06,Pancakes,Burrito bowl,Chicken soup,Hummus with carrots
+53,Male,161,74,68,15,28.55,1486.25,2303.69,1863.69,Oatmeal with fruits,Rice and beans,Tofu curry,Cheese and crackers
+51,Female,179,52,45,11,16.23,1222.75,1895.26,1195.26,Greek yogurt,Pasta with veggies,Salmon and quinoa,Cheese and crackers
+48,Male,190,93,86,14,25.76,1882.5,2917.88,2367.88,Greek yogurt,Rice and beans,Vegetable stir-fry,Protein bar
+27,Male,150,91,87,17,40.44,1717.5,2662.12,2403.3,Smoothie,Sushi,Vegetable stir-fry,Nuts and fruits
+36,Male,154,55,57,11,23.19,1337.5,2073.12,2273.12,Oatmeal with fruits,Grilled chicken salad,Chicken soup,Dark chocolate
+49,Male,169,88,85,13,30.81,1696.25,2629.19,2375.34,Eggs and toast,Sushi,Tofu curry,Hummus with carrots
+18,Female,157,101,105,10,40.98,1740.25,2697.39,3137.39,Smoothie,Rice and beans,Steak with veggies,Nuts and fruits
+22,Female,192,72,59,20,19.53,1649.0,2555.95,1840.95,Greek yogurt,Sushi,Tofu curry,Nuts and fruits
+62,Male,161,99,104,7,38.19,1691.25,2621.44,3407.15,Oatmeal with fruits,Grilled chicken salad,Salmon and quinoa,Protein bar
+21,Male,150,92,91,16,40.89,1757.5,2724.12,2655.38,Pancakes,Burrito bowl,Steak with veggies,Dark chocolate
+33,Male,169,68,57,7,23.81,1576.25,2443.19,714.62,Eggs and toast,Rice and beans,Vegetable stir-fry,Hummus with carrots
+41,Male,177,118,121,8,37.66,2086.25,3233.69,3646.19,Greek yogurt,Sushi,Chicken soup,Dark chocolate
+33,Male,192,100,86,25,27.13,2040.0,3162.0,2546.0,Smoothie,Rice and beans,Chicken soup,Protein bar
+19,Male,186,60,46,7,17.34,1672.5,2592.38,392.38,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Cheese and crackers
+45,Female,196,61,64,21,15.88,1449.0,2245.95,2403.09,Eggs and toast,Sushi,Salmon and quinoa,Nuts and fruits
+49,Male,186,57,60,9,16.48,1492.5,2313.38,2680.04,Oatmeal with fruits,Sushi,Vegetable stir-fry,Hummus with carrots
+44,Female,161,73,62,25,28.16,1355.25,2100.64,1616.64,Pancakes,Rice and beans,Salmon and quinoa,Cheese and crackers
+37,Female,186,90,89,5,26.01,1716.5,2660.58,2440.58,Smoothie,Rice and beans,Steak with veggies,Protein bar
+41,Male,198,85,77,14,21.68,1887.5,2925.62,2297.05,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+29,Female,198,104,93,17,26.53,1971.5,3055.82,2344.06,Greek yogurt,Burrito bowl,Salmon and quinoa,Nuts and fruits
+52,Female,193,58,46,8,15.57,1365.25,2116.14,466.14,Smoothie,Grilled chicken salad,Steak with veggies,Hummus with carrots
+50,Female,177,96,89,9,30.64,1655.25,2565.64,1710.08,Greek yogurt,Sushi,Vegetable stir-fry,Cheese and crackers
+50,Female,196,64,50,13,16.66,1454.0,2253.7,1069.08,Oatmeal with fruits,Rice and beans,Chicken soup,Cheese and crackers
+60,Female,164,97,83,11,36.06,1534.0,2377.7,977.7,Smoothie,Sushi,Vegetable stir-fry,Nuts and fruits
+54,Female,155,91,79,17,37.88,1447.75,2244.01,1467.54,Greek yogurt,Sushi,Tofu curry,Dark chocolate
+29,Male,193,109,111,6,29.26,2156.25,3342.19,3708.85,Pancakes,Pasta with veggies,Vegetable stir-fry,Protein bar
+20,Female,169,119,124,15,41.67,1985.25,3077.14,3443.8,Pancakes,Pasta with veggies,Tofu curry,Dark chocolate
+18,Female,199,61,49,19,15.4,1602.75,2484.26,1789.53,Oatmeal with fruits,Sushi,Steak with veggies,Dark chocolate
+50,Female,163,51,56,20,19.2,1117.75,1732.51,2007.51,Smoothie,Rice and beans,Vegetable stir-fry,Dark chocolate
+57,Male,151,56,49,4,24.56,1223.75,1896.81,-28.19,Eggs and toast,Sushi,Steak with veggies,Nuts and fruits
+27,Female,158,52,38,13,20.83,1211.5,1877.82,693.21,Smoothie,Pasta with veggies,Steak with veggies,Nuts and fruits
+60,Male,186,52,38,13,15.03,1387.5,2150.62,966.01,Pancakes,Rice and beans,Salmon and quinoa,Protein bar
+61,Female,169,76,72,24,26.61,1350.25,2092.89,1909.55,Greek yogurt,Sushi,Steak with veggies,Dark chocolate
+46,Male,175,89,84,5,29.06,1758.75,2726.06,1626.06,Eggs and toast,Burrito bowl,Steak with veggies,Nuts and fruits
+30,Male,178,82,79,12,25.88,1787.5,2770.62,2495.62,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Protein bar
+29,Female,150,50,47,25,22.22,1131.5,1753.82,1621.82,Eggs and toast,Sushi,Vegetable stir-fry,Protein bar
+48,Female,184,57,58,16,16.84,1319.0,2044.45,2113.2,Oatmeal with fruits,Rice and beans,Chicken soup,Dark chocolate
+63,Male,155,81,86,19,33.71,1468.75,2276.56,2566.04,Eggs and toast,Sushi,Salmon and quinoa,Hummus with carrots
+19,Female,186,97,86,21,28.04,1876.5,2908.58,2332.38,Oatmeal with fruits,Sushi,Steak with veggies,Dark chocolate
+52,Male,154,53,57,22,22.35,1237.5,1918.12,2118.12,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+40,Male,182,119,112,15,35.93,2132.5,3305.38,2792.04,Eggs and toast,Burrito bowl,Tofu curry,Protein bar
+34,Male,198,68,65,11,17.35,1752.5,2716.38,2416.38,Eggs and toast,Pasta with veggies,Steak with veggies,Nuts and fruits
+43,Male,163,81,83,20,30.49,1618.75,2509.06,2619.06,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Cheese and crackers
+25,Male,161,58,59,18,22.38,1466.25,2272.69,2333.8,Pancakes,Sushi,Chicken soup,Protein bar
+46,Female,191,61,56,13,16.72,1412.75,2189.76,1766.69,Eggs and toast,Pasta with veggies,Chicken soup,Nuts and fruits
+43,Male,169,60,47,18,21.01,1446.25,2241.69,1447.24,Smoothie,Burrito bowl,Steak with veggies,Protein bar
+27,Male,199,95,98,18,23.99,2063.75,3198.81,3382.15,Greek yogurt,Pasta with veggies,Tofu curry,Dark chocolate
+43,Female,173,65,59,10,21.72,1355.25,2100.64,1440.64,Oatmeal with fruits,Burrito bowl,Chicken soup,Hummus with carrots
+51,Male,192,50,37,16,13.56,1450.0,2247.5,1353.75,Oatmeal with fruits,Pasta with veggies,Chicken soup,Protein bar
+58,Female,183,112,99,20,33.44,1812.75,2809.76,2094.76,Greek yogurt,Burrito bowl,Tofu curry,Nuts and fruits
+24,Female,174,70,63,12,23.12,1506.5,2335.08,1693.41,Pancakes,Pasta with veggies,Salmon and quinoa,Dark chocolate
+21,Female,199,79,78,11,19.95,1767.75,2740.01,2640.01,Greek yogurt,Pasta with veggies,Chicken soup,Cheese and crackers
+62,Male,178,62,53,23,19.57,1427.5,2212.62,1782.19,Eggs and toast,Rice and beans,Vegetable stir-fry,Dark chocolate
+28,Male,188,83,82,24,23.48,1870.0,2898.5,2852.67,Greek yogurt,Burrito bowl,Chicken soup,Hummus with carrots
+46,Male,180,53,51,21,16.36,1430.0,2216.5,2111.74,Oatmeal with fruits,Burrito bowl,Salmon and quinoa,Dark chocolate
+53,Female,196,77,78,16,20.04,1569.0,2431.95,2500.7,Greek yogurt,Burrito bowl,Salmon and quinoa,Cheese and crackers
+42,Male,192,108,100,19,29.3,2075.0,3216.25,2753.09,Smoothie,Grilled chicken salad,Steak with veggies,Nuts and fruits
+38,Female,199,76,78,12,19.19,1652.75,2561.76,2745.1,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Protein bar
+53,Male,172,118,114,15,39.89,1995.0,3092.25,2798.92,Greek yogurt,Burrito bowl,Salmon and quinoa,Hummus with carrots
+27,Female,193,74,60,15,19.87,1650.25,2557.89,1531.22,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Cheese and crackers
+54,Male,187,52,43,9,14.87,1423.75,2206.81,1106.81,Eggs and toast,Rice and beans,Vegetable stir-fry,Hummus with carrots
+26,Male,169,117,105,22,40.96,2101.25,3256.94,2656.94,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Dark chocolate
+41,Male,172,74,60,10,25.01,1615.0,2503.25,963.25,Pancakes,Burrito bowl,Tofu curry,Hummus with carrots
+52,Female,194,69,62,6,18.33,1481.5,2296.33,1012.99,Smoothie,Grilled chicken salad,Chicken soup,Cheese and crackers
+52,Female,165,83,81,19,30.49,1440.25,2232.39,2116.6,Pancakes,Pasta with veggies,Tofu curry,Protein bar
+53,Male,199,75,72,21,18.94,1733.75,2687.31,2530.17,Smoothie,Rice and beans,Tofu curry,Protein bar
+35,Male,191,54,44,19,14.8,1563.75,2423.81,1844.87,Greek yogurt,Burrito bowl,Chicken soup,Hummus with carrots
+56,Female,157,110,97,10,44.63,1640.25,2542.39,1112.39,Eggs and toast,Pasta with veggies,Chicken soup,Nuts and fruits
+49,Female,199,58,48,7,14.65,1417.75,2197.51,626.08,Greek yogurt,Rice and beans,Chicken soup,Hummus with carrots
+41,Female,170,99,98,11,34.26,1686.5,2614.08,2514.08,Smoothie,Sushi,Chicken soup,Dark chocolate
+40,Male,150,55,47,16,24.44,1292.5,2003.38,1453.38,Smoothie,Sushi,Chicken soup,Protein bar
+49,Female,157,109,101,16,44.22,1665.25,2581.14,2031.14,Smoothie,Rice and beans,Tofu curry,Protein bar
+54,Male,178,93,95,20,29.35,1777.5,2755.12,2865.12,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Protein bar
+29,Female,181,60,51,20,18.31,1425.25,2209.14,1714.14,Eggs and toast,Rice and beans,Steak with veggies,Nuts and fruits
+30,Male,187,115,118,8,32.89,2173.75,3369.31,3781.81,Greek yogurt,Rice and beans,Salmon and quinoa,Nuts and fruits
+40,Female,154,96,97,9,40.48,1561.5,2420.33,2542.55,Greek yogurt,Grilled chicken salad,Steak with veggies,Cheese and crackers
+42,Female,196,52,57,22,13.54,1374.0,2129.7,2379.7,Pancakes,Grilled chicken salad,Steak with veggies,Hummus with carrots
+52,Female,171,79,82,16,27.02,1437.75,2228.51,2434.76,Smoothie,Pasta with veggies,Tofu curry,Hummus with carrots
+58,Female,196,70,61,17,18.22,1474.0,2284.7,1702.35,Smoothie,Pasta with veggies,Chicken soup,Dark chocolate
+47,Female,183,77,75,25,22.99,1517.75,2352.51,2264.51,Smoothie,Grilled chicken salad,Chicken soup,Protein bar
+34,Male,150,111,113,7,49.33,1882.5,2917.88,3232.16,Greek yogurt,Sushi,Tofu curry,Nuts and fruits
+37,Female,175,82,86,10,26.78,1567.75,2430.01,2870.01,Pancakes,Sushi,Steak with veggies,Dark chocolate
+42,Female,192,84,80,11,22.79,1669.0,2586.95,2186.95,Oatmeal with fruits,Rice and beans,Tofu curry,Dark chocolate
+39,Female,159,101,103,16,39.95,1647.75,2554.01,2691.51,Eggs and toast,Burrito bowl,Salmon and quinoa,Nuts and fruits
+30,Male,179,83,86,9,25.9,1803.75,2795.81,3162.48,Oatmeal with fruits,Rice and beans,Chicken soup,Hummus with carrots
+36,Female,199,90,94,9,22.73,1802.75,2794.26,3283.15,Greek yogurt,Rice and beans,Vegetable stir-fry,Protein bar
+53,Male,167,100,89,24,35.86,1783.75,2764.81,2260.65,Smoothie,Burrito bowl,Salmon and quinoa,Hummus with carrots
+29,Female,166,96,82,6,34.84,1691.5,2621.82,55.16,Eggs and toast,Grilled chicken salad,Salmon and quinoa,Dark chocolate
+58,Female,175,107,100,6,34.94,1712.75,2654.76,1371.43,Greek yogurt,Sushi,Tofu curry,Protein bar
+36,Male,157,106,107,16,43.0,1866.25,2892.69,2961.44,Greek yogurt,Rice and beans,Steak with veggies,Cheese and crackers
+29,Female,196,72,69,25,18.74,1639.0,2540.45,2408.45,Greek yogurt,Burrito bowl,Chicken soup,Dark chocolate
+26,Male,189,97,97,5,27.15,2026.25,3140.69,3140.69,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Hummus with carrots
+24,Male,198,71,72,19,18.11,1832.5,2840.38,2898.27,Eggs and toast,Rice and beans,Salmon and quinoa,Hummus with carrots
+45,Female,161,66,62,25,25.46,1280.25,1984.39,1808.39,Pancakes,Sushi,Vegetable stir-fry,Hummus with carrots
+31,Male,176,118,116,9,38.09,2130.0,3301.5,3057.06,Pancakes,Grilled chicken salad,Steak with veggies,Nuts and fruits
+48,Female,157,60,59,11,24.34,1180.25,1829.39,1729.39,Oatmeal with fruits,Rice and beans,Steak with veggies,Dark chocolate
+36,Female,174,64,63,11,21.14,1386.5,2149.08,2049.08,Eggs and toast,Rice and beans,Vegetable stir-fry,Protein bar
+64,Male,195,84,84,9,22.09,1743.75,2702.81,2702.81,Eggs and toast,Burrito bowl,Chicken soup,Hummus with carrots
+33,Male,153,82,68,17,35.03,1616.25,2505.19,1599.31,Eggs and toast,Pasta with veggies,Steak with veggies,Hummus with carrots
+22,Male,182,65,68,6,19.62,1682.5,2607.88,3157.88,Pancakes,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+52,Male,150,83,70,13,36.89,1512.5,2344.38,1244.38,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Protein bar
+29,Female,168,115,106,6,40.75,1894.0,2935.7,1285.7,Smoothie,Sushi,Vegetable stir-fry,Dark chocolate
+42,Female,180,89,91,15,27.47,1644.0,2548.2,2694.87,Pancakes,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+38,Male,165,77,71,20,28.28,1616.25,2505.19,2175.19,Eggs and toast,Rice and beans,Tofu curry,Nuts and fruits
+53,Female,163,96,96,8,36.13,1552.75,2406.76,2406.76,Pancakes,Rice and beans,Steak with veggies,Dark chocolate
+40,Female,197,88,75,23,22.68,1750.25,2712.89,2091.15,Oatmeal with fruits,Pasta with veggies,Chicken soup,Cheese and crackers
+33,Female,154,119,121,12,50.18,1826.5,2831.08,3014.41,Eggs and toast,Sushi,Chicken soup,Hummus with carrots
+56,Female,190,69,60,24,19.11,1436.5,2226.58,1814.08,Oatmeal with fruits,Burrito bowl,Tofu curry,Hummus with carrots
+62,Male,175,50,47,23,16.33,1288.75,1997.56,1854.08,Eggs and toast,Sushi,Chicken soup,Protein bar
+59,Male,177,112,113,10,35.75,1936.25,3001.19,3111.19,Pancakes,Rice and beans,Vegetable stir-fry,Cheese and crackers
+56,Female,151,116,109,25,50.87,1662.75,2577.26,2269.26,Greek yogurt,Burrito bowl,Tofu curry,Hummus with carrots
+31,Male,199,53,41,7,13.38,1623.75,2516.81,631.1,Smoothie,Sushi,Salmon and quinoa,Hummus with carrots
+48,Male,155,107,108,16,44.54,1803.75,2795.81,2864.56,Oatmeal with fruits,Sushi,Steak with veggies,Protein bar
+22,Male,158,74,64,16,29.64,1622.5,2514.88,1827.38,Pancakes,Burrito bowl,Steak with veggies,Dark chocolate
+52,Female,182,96,83,13,28.98,1676.5,2598.58,1498.58,Greek yogurt,Rice and beans,Steak with veggies,Hummus with carrots
+40,Female,190,87,79,21,24.1,1696.5,2629.58,2210.53,Pancakes,Sushi,Vegetable stir-fry,Nuts and fruits
+46,Female,174,64,54,20,21.14,1336.5,2071.58,1521.58,Oatmeal with fruits,Burrito bowl,Salmon and quinoa,Nuts and fruits
+60,Male,197,112,103,23,28.86,2056.25,3187.19,2756.75,Smoothie,Rice and beans,Tofu curry,Dark chocolate
+28,Female,162,70,72,23,26.67,1411.5,2187.83,2283.48,Pancakes,Burrito bowl,Tofu curry,Cheese and crackers
+35,Female,158,106,105,16,42.46,1711.5,2652.82,2584.08,Eggs and toast,Burrito bowl,Steak with veggies,Protein bar
+64,Male,162,102,92,20,38.87,1717.5,2662.12,2112.12,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+29,Female,180,95,93,25,29.32,1769.0,2741.95,2653.95,Pancakes,Rice and beans,Salmon and quinoa,Nuts and fruits
+26,Female,190,63,52,7,17.45,1526.5,2366.08,637.5,Greek yogurt,Sushi,Salmon and quinoa,Dark chocolate
+27,Male,160,66,56,4,25.78,1530.0,2371.5,-378.5,Eggs and toast,Grilled chicken salad,Chicken soup,Cheese and crackers
+61,Male,153,88,84,4,37.59,1536.25,2381.19,1281.19,Smoothie,Grilled chicken salad,Chicken soup,Cheese and crackers
+34,Male,183,58,54,18,17.32,1558.75,2416.06,2171.62,Smoothie,Rice and beans,Steak with veggies,Dark chocolate
+55,Female,187,55,59,16,15.73,1282.75,1988.26,2263.26,Eggs and toast,Burrito bowl,Salmon and quinoa,Nuts and fruits
+24,Female,195,72,69,20,18.93,1657.75,2569.51,2404.51,Greek yogurt,Sushi,Salmon and quinoa,Protein bar
+63,Female,153,108,97,11,46.14,1560.25,2418.39,1318.39,Pancakes,Sushi,Tofu curry,Nuts and fruits
+30,Male,187,95,90,21,27.17,1973.75,3059.31,2797.41,Eggs and toast,Rice and beans,Tofu curry,Cheese and crackers
+57,Male,168,87,83,16,30.82,1640.0,2542.0,2267.0,Oatmeal with fruits,Rice and beans,Steak with veggies,Nuts and fruits
+59,Female,155,63,52,17,26.22,1142.75,1771.26,1059.5,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Protein bar
+26,Female,183,111,113,11,33.15,1962.75,3042.26,3242.26,Smoothie,Pasta with veggies,Steak with veggies,Hummus with carrots
+44,Male,167,84,74,11,30.12,1668.75,2586.56,1586.56,Eggs and toast,Rice and beans,Tofu curry,Nuts and fruits
+19,Male,162,68,54,18,25.91,1602.5,2483.88,1628.32,Smoothie,Pasta with veggies,Tofu curry,Dark chocolate
+22,Male,190,79,70,16,21.88,1872.5,2902.38,2283.62,Greek yogurt,Rice and beans,Chicken soup,Hummus with carrots
+46,Male,172,74,75,10,25.01,1590.0,2464.5,2574.5,Smoothie,Burrito bowl,Steak with veggies,Dark chocolate
+54,Female,168,89,89,8,31.53,1509.0,2338.95,2338.95,Eggs and toast,Burrito bowl,Steak with veggies,Dark chocolate
+55,Male,194,63,52,20,16.74,1572.5,2437.38,1832.38,Greek yogurt,Grilled chicken salad,Salmon and quinoa,Dark chocolate
+36,Female,160,75,80,19,29.3,1409.0,2183.95,2473.42,Oatmeal with fruits,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+25,Female,150,71,58,5,31.56,1361.5,2110.33,-749.67,Eggs and toast,Pasta with veggies,Chicken soup,Cheese and crackers
+62,Female,173,97,99,25,32.41,1580.25,2449.39,2537.39,Pancakes,Rice and beans,Vegetable stir-fry,Hummus with carrots
+18,Male,156,100,89,21,41.09,1890.0,2929.5,2353.31,Eggs and toast,Sushi,Vegetable stir-fry,Protein bar
+39,Male,174,52,49,20,17.18,1417.5,2197.12,2032.12,Greek yogurt,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+34,Male,170,91,95,10,31.49,1807.5,2801.62,3241.62,Eggs and toast,Sushi,Steak with veggies,Nuts and fruits
+24,Male,164,68,66,16,25.28,1590.0,2464.5,2327.0,Oatmeal with fruits,Sushi,Steak with veggies,Dark chocolate
+42,Female,150,77,68,21,34.22,1336.5,2071.58,1600.15,Oatmeal with fruits,Rice and beans,Tofu curry,Protein bar
+62,Male,161,94,93,17,36.26,1641.25,2543.94,2479.23,Pancakes,Pasta with veggies,Steak with veggies,Hummus with carrots
+21,Male,156,112,112,21,46.02,1995.0,3092.25,3092.25,Smoothie,Rice and beans,Steak with veggies,Cheese and crackers
+53,Female,164,68,73,16,25.28,1279.0,1982.45,2326.2,Greek yogurt,Grilled chicken salad,Steak with veggies,Cheese and crackers
+23,Male,170,96,87,14,33.22,1912.5,2964.38,2257.23,Greek yogurt,Sushi,Chicken soup,Protein bar
+48,Female,168,63,62,24,22.32,1279.0,1982.45,1936.62,Smoothie,Rice and beans,Steak with veggies,Nuts and fruits
+36,Female,178,87,76,24,27.46,1641.5,2544.33,2040.16,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Hummus with carrots
+61,Female,174,102,106,19,33.69,1641.5,2544.33,2775.9,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Protein bar
+56,Female,182,110,107,20,33.21,1796.5,2784.58,2619.58,Eggs and toast,Grilled chicken salad,Tofu curry,Dark chocolate
+44,Female,198,85,82,11,21.68,1706.5,2645.08,2345.08,Pancakes,Pasta with veggies,Chicken soup,Hummus with carrots
+27,Female,181,89,82,22,27.17,1725.25,2674.14,2324.14,Pancakes,Rice and beans,Salmon and quinoa,Cheese and crackers
+43,Female,198,79,79,23,20.15,1651.5,2559.83,2559.83,Pancakes,Grilled chicken salad,Chicken soup,Protein bar
+36,Female,184,58,58,18,17.13,1389.0,2152.95,2152.95,Eggs and toast,Sushi,Chicken soup,Cheese and crackers
+56,Male,193,113,99,12,30.34,2061.25,3194.94,1911.6,Pancakes,Burrito bowl,Tofu curry,Cheese and crackers
+20,Male,187,82,68,23,23.45,1893.75,2935.31,2265.75,Smoothie,Grilled chicken salad,Chicken soup,Cheese and crackers
+62,Male,175,101,104,13,32.98,1798.75,2788.06,3041.91,Eggs and toast,Burrito bowl,Steak with veggies,Nuts and fruits
+30,Male,160,63,52,15,24.61,1485.0,2301.75,1495.08,Smoothie,Rice and beans,Chicken soup,Cheese and crackers
+45,Female,184,102,91,24,30.13,1784.0,2765.2,2261.03,Eggs and toast,Rice and beans,Tofu curry,Dark chocolate
+37,Male,157,108,102,23,43.82,1881.25,2915.94,2628.98,Pancakes,Grilled chicken salad,Tofu curry,Dark chocolate
+45,Female,195,90,80,4,23.67,1732.75,2685.76,-64.24,Smoothie,Burrito bowl,Tofu curry,Hummus with carrots
+25,Male,163,117,108,23,44.04,2068.75,3206.56,2776.13,Smoothie,Rice and beans,Salmon and quinoa,Cheese and crackers
+58,Male,159,117,110,12,46.28,1878.75,2912.06,2270.4,Smoothie,Sushi,Steak with veggies,Cheese and crackers
+56,Male,151,57,62,25,25.0,1238.75,1920.06,2140.06,Eggs and toast,Pasta with veggies,Salmon and quinoa,Protein bar
+18,Female,195,51,40,18,13.41,1477.75,2290.51,1618.29,Greek yogurt,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+20,Male,158,90,93,4,36.05,1792.5,2778.38,3603.38,Pancakes,Rice and beans,Steak with veggies,Hummus with carrots
+30,Female,152,104,95,15,45.01,1679.0,2602.45,1942.45,Smoothie,Burrito bowl,Chicken soup,Cheese and crackers
+45,Female,170,65,67,6,22.49,1326.5,2056.08,2422.74,Greek yogurt,Rice and beans,Tofu curry,Protein bar
+42,Male,175,111,113,14,36.24,1998.75,3098.06,3255.21,Pancakes,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+50,Male,157,97,85,5,39.35,1706.25,2644.69,4.69,Pancakes,Sushi,Steak with veggies,Hummus with carrots
+55,Male,197,79,68,19,20.36,1751.25,2714.44,2077.6,Smoothie,Burrito bowl,Salmon and quinoa,Hummus with carrots
+23,Female,151,61,48,12,26.75,1277.75,1980.51,788.85,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+61,Male,155,84,79,18,34.96,1508.75,2338.56,2033.01,Eggs and toast,Sushi,Salmon and quinoa,Hummus with carrots
+62,Female,177,60,46,15,19.15,1235.25,1914.64,887.97,Greek yogurt,Grilled chicken salad,Steak with veggies,Protein bar
+49,Female,178,113,116,4,35.66,1836.5,2846.58,3671.58,Greek yogurt,Pasta with veggies,Steak with veggies,Hummus with carrots
+62,Male,175,99,97,16,32.33,1778.75,2757.06,2619.56,Smoothie,Rice and beans,Vegetable stir-fry,Dark chocolate
+64,Male,174,70,62,17,23.12,1472.5,2282.38,1764.73,Pancakes,Rice and beans,Chicken soup,Protein bar
+38,Female,161,118,123,11,45.52,1835.25,2844.64,3344.64,Smoothie,Rice and beans,Salmon and quinoa,Nuts and fruits
+33,Female,154,97,89,11,40.9,1606.5,2490.08,1690.08,Pancakes,Sushi,Vegetable stir-fry,Nuts and fruits
+38,Female,183,69,73,15,20.6,1482.75,2298.26,2591.6,Pancakes,Grilled chicken salad,Tofu curry,Cheese and crackers
+28,Male,197,116,118,4,29.89,2256.25,3497.19,4047.19,Smoothie,Burrito bowl,Chicken soup,Cheese and crackers
+54,Female,186,93,80,14,26.88,1661.5,2575.33,1553.9,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+53,Male,164,82,82,11,30.49,1585.0,2456.75,2456.75,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+52,Female,193,110,115,13,29.53,1885.25,2922.14,3345.21,Pancakes,Rice and beans,Steak with veggies,Nuts and fruits
+36,Female,185,58,47,22,16.95,1395.25,2162.64,1612.64,Pancakes,Pasta with veggies,Tofu curry,Nuts and fruits
+37,Male,164,117,115,14,43.5,2015.0,3123.25,2966.11,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Nuts and fruits
+35,Female,192,84,71,10,22.79,1704.0,2641.2,1211.2,Eggs and toast,Burrito bowl,Chicken soup,Hummus with carrots
+64,Male,197,114,119,14,29.37,2056.25,3187.19,3580.04,Oatmeal with fruits,Pasta with veggies,Chicken soup,Protein bar
+58,Male,172,57,58,20,19.27,1360.0,2108.0,2163.0,Oatmeal with fruits,Rice and beans,Steak with veggies,Protein bar
+31,Female,155,94,84,4,39.13,1592.75,2468.76,-281.24,Pancakes,Pasta with veggies,Steak with veggies,Dark chocolate
+32,Male,195,96,96,24,25.25,2023.75,3136.81,3136.81,Greek yogurt,Grilled chicken salad,Tofu curry,Hummus with carrots
+48,Male,199,89,87,24,22.47,1898.75,2943.06,2851.4,Oatmeal with fruits,Sushi,Tofu curry,Nuts and fruits
+18,Female,193,103,96,11,27.65,1985.25,3077.14,2377.14,Eggs and toast,Rice and beans,Steak with veggies,Nuts and fruits
+20,Male,192,95,85,9,25.77,2055.0,3185.25,1963.03,Smoothie,Burrito bowl,Steak with veggies,Cheese and crackers
+33,Male,194,96,99,25,25.51,2012.5,3119.38,3251.38,Oatmeal with fruits,Grilled chicken salad,Chicken soup,Cheese and crackers
+40,Male,170,64,51,21,22.15,1507.5,2336.62,1655.67,Oatmeal with fruits,Rice and beans,Steak with veggies,Dark chocolate
+28,Female,172,68,62,9,22.99,1454.0,2253.7,1520.37,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Nuts and fruits
+29,Male,192,75,65,8,20.35,1810.0,2805.5,1430.5,Greek yogurt,Burrito bowl,Salmon and quinoa,Dark chocolate
+27,Female,165,101,96,16,37.1,1745.25,2705.14,2361.39,Oatmeal with fruits,Rice and beans,Steak with veggies,Hummus with carrots
+49,Female,196,71,67,22,18.48,1529.0,2369.95,2169.95,Oatmeal with fruits,Burrito bowl,Tofu curry,Protein bar
+33,Male,164,70,56,25,26.03,1565.0,2425.75,1809.75,Greek yogurt,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+25,Male,174,100,102,11,33.03,1967.5,3049.62,3249.62,Eggs and toast,Burrito bowl,Tofu curry,Hummus with carrots
+55,Male,185,87,81,12,25.42,1756.25,2722.19,2172.19,Oatmeal with fruits,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+29,Female,160,69,73,20,26.95,1384.0,2145.2,2365.2,Greek yogurt,Rice and beans,Steak with veggies,Cheese and crackers
+41,Male,164,78,65,6,29.0,1605.0,2487.75,104.42,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Dark chocolate
+45,Male,153,100,101,22,42.72,1736.25,2691.19,2741.19,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+25,Male,170,53,51,14,18.34,1472.5,2282.38,2125.23,Pancakes,Rice and beans,Vegetable stir-fry,Protein bar
+45,Male,162,104,103,20,39.63,1832.5,2840.38,2785.38,Smoothie,Sushi,Chicken soup,Cheese and crackers
+53,Male,171,77,69,24,26.33,1578.75,2447.06,2080.4,Oatmeal with fruits,Rice and beans,Steak with veggies,Nuts and fruits
+43,Female,168,53,56,22,18.78,1204.0,1866.2,2016.2,Eggs and toast,Pasta with veggies,Salmon and quinoa,Cheese and crackers
+25,Female,183,71,59,5,21.2,1567.75,2430.01,-209.99,Pancakes,Sushi,Steak with veggies,Nuts and fruits
+45,Male,163,94,84,11,35.38,1738.75,2695.06,1695.06,Smoothie,Sushi,Chicken soup,Protein bar
+45,Male,153,116,103,22,49.55,1896.25,2939.19,2289.19,Greek yogurt,Rice and beans,Salmon and quinoa,Cheese and crackers
+54,Male,197,115,102,10,29.63,2116.25,3280.19,1850.19,Eggs and toast,Burrito bowl,Chicken soup,Dark chocolate
+58,Male,195,83,71,20,21.83,1763.75,2733.81,2073.81,Smoothie,Burrito bowl,Steak with veggies,Dark chocolate
+53,Female,176,104,90,9,33.57,1714.0,2656.7,945.59,Greek yogurt,Sushi,Vegetable stir-fry,Dark chocolate
+44,Male,178,50,40,22,15.78,1397.5,2166.12,1666.12,Oatmeal with fruits,Rice and beans,Steak with veggies,Cheese and crackers
+34,Female,196,87,85,9,22.65,1764.0,2734.2,2489.76,Greek yogurt,Burrito bowl,Steak with veggies,Cheese and crackers
+26,Female,177,55,60,5,17.56,1365.25,2116.14,3216.14,Smoothie,Rice and beans,Steak with veggies,Cheese and crackers
+50,Male,184,74,63,9,21.86,1645.0,2549.75,1205.31,Smoothie,Rice and beans,Tofu curry,Nuts and fruits
+37,Female,157,66,60,8,26.78,1295.25,2007.64,1182.64,Oatmeal with fruits,Sushi,Chicken soup,Protein bar
+30,Female,165,110,105,22,40.4,1820.25,2821.39,2571.39,Greek yogurt,Sushi,Chicken soup,Dark chocolate
+45,Female,191,61,62,23,16.72,1417.75,2197.51,2245.34,Greek yogurt,Grilled chicken salad,Chicken soup,Nuts and fruits
+46,Female,185,55,49,7,16.07,1315.25,2038.64,1095.78,Oatmeal with fruits,Burrito bowl,Tofu curry,Dark chocolate
+30,Male,179,76,65,25,23.72,1733.75,2687.31,2203.31,Greek yogurt,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+63,Male,167,57,57,20,20.44,1303.75,2020.81,2020.81,Oatmeal with fruits,Burrito bowl,Steak with veggies,Cheese and crackers
+52,Female,151,114,119,14,50.0,1662.75,2577.26,2970.12,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+23,Male,198,106,107,7,27.04,2187.5,3390.62,3547.77,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+35,Male,162,89,81,16,33.91,1732.5,2685.38,2135.38,Eggs and toast,Sushi,Chicken soup,Dark chocolate
+22,Male,153,63,64,23,26.91,1481.25,2295.94,2343.76,Pancakes,Burrito bowl,Steak with veggies,Hummus with carrots
+64,Male,175,84,89,20,27.43,1618.75,2509.06,2784.06,Pancakes,Grilled chicken salad,Salmon and quinoa,Nuts and fruits
+42,Male,174,97,85,12,32.04,1852.5,2871.38,1771.38,Pancakes,Burrito bowl,Salmon and quinoa,Hummus with carrots
+19,Female,179,105,95,7,32.77,1912.75,2964.76,1393.33,Oatmeal with fruits,Rice and beans,Vegetable stir-fry,Nuts and fruits
+27,Male,160,98,95,17,38.28,1850.0,2867.5,2673.38,Greek yogurt,Rice and beans,Chicken soup,Protein bar
+47,Male,156,62,49,22,25.48,1365.0,2115.75,1465.75,Eggs and toast,Sushi,Salmon and quinoa,Dark chocolate
+62,Male,180,110,111,6,33.95,1920.0,2976.0,3159.33,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Protein bar
+22,Male,193,98,102,17,26.31,2081.25,3225.94,3484.76,Eggs and toast,Sushi,Tofu curry,Protein bar
+50,Female,159,95,86,11,37.58,1532.75,2375.76,1475.76,Eggs and toast,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+18,Female,188,111,110,4,31.41,2034.0,3152.7,2877.7,Pancakes,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+35,Female,162,57,59,13,21.72,1246.5,1932.08,2101.31,Eggs and toast,Sushi,Vegetable stir-fry,Cheese and crackers
+49,Female,180,92,97,21,28.4,1639.0,2540.45,2802.35,Greek yogurt,Pasta with veggies,Steak with veggies,Nuts and fruits
+64,Male,156,69,62,19,28.35,1350.0,2092.5,1687.24,Pancakes,Sushi,Vegetable stir-fry,Cheese and crackers
+28,Female,198,88,74,11,22.45,1816.5,2815.58,1415.58,Eggs and toast,Rice and beans,Vegetable stir-fry,Protein bar
+38,Male,191,98,97,4,26.86,1988.75,3082.56,2807.56,Oatmeal with fruits,Burrito bowl,Steak with veggies,Cheese and crackers
+43,Male,191,113,104,15,30.98,2113.75,3276.31,2616.31,Smoothie,Burrito bowl,Steak with veggies,Hummus with carrots
+42,Male,185,111,103,11,32.43,2061.25,3194.94,2394.94,Smoothie,Burrito bowl,Tofu curry,Nuts and fruits
+39,Male,169,103,90,19,36.06,1896.25,2939.19,2186.56,Smoothie,Burrito bowl,Chicken soup,Hummus with carrots
+44,Male,153,58,44,21,24.78,1321.25,2047.94,1314.6,Pancakes,Burrito bowl,Salmon and quinoa,Hummus with carrots
+30,Female,156,86,74,7,35.34,1524.0,2362.2,476.49,Eggs and toast,Burrito bowl,Salmon and quinoa,Nuts and fruits
+50,Female,150,98,94,9,43.56,1506.5,2335.08,1846.19,Pancakes,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+51,Female,193,90,87,15,24.16,1690.25,2619.89,2399.89,Greek yogurt,Pasta with veggies,Tofu curry,Dark chocolate
+58,Female,194,66,64,12,17.54,1421.5,2203.33,2019.99,Oatmeal with fruits,Burrito bowl,Vegetable stir-fry,Dark chocolate
+52,Male,191,70,66,18,19.19,1638.75,2540.06,2295.62,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Dark chocolate
+18,Female,196,100,89,19,26.03,1974.0,3059.7,2422.86,Smoothie,Burrito bowl,Steak with veggies,Cheese and crackers
+38,Male,162,108,112,15,41.15,1907.5,2956.62,3249.96,Smoothie,Sushi,Chicken soup,Hummus with carrots
+23,Female,171,88,88,17,30.09,1672.75,2592.76,2592.76,Smoothie,Burrito bowl,Tofu curry,Nuts and fruits
+45,Male,170,104,105,16,35.99,1882.5,2917.88,2986.62,Eggs and toast,Rice and beans,Steak with veggies,Nuts and fruits
+34,Male,171,90,87,5,30.78,1803.75,2795.81,2135.81,Greek yogurt,Grilled chicken salad,Chicken soup,Cheese and crackers
+22,Female,177,88,89,6,28.09,1715.25,2658.64,2841.97,Greek yogurt,Sushi,Tofu curry,Nuts and fruits
+48,Male,158,62,50,25,24.84,1372.5,2127.38,1599.38,Greek yogurt,Sushi,Tofu curry,Dark chocolate
+22,Male,175,113,99,13,36.9,2118.75,3284.06,2099.45,Greek yogurt,Rice and beans,Salmon and quinoa,Hummus with carrots
+55,Female,158,60,57,12,24.03,1151.5,1784.82,1509.82,Smoothie,Burrito bowl,Steak with veggies,Nuts and fruits
+20,Male,164,68,57,23,25.28,1610.0,2495.5,1969.41,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Nuts and fruits
+40,Female,159,60,49,11,23.73,1232.75,1910.76,810.76,Smoothie,Sushi,Tofu curry,Protein bar
+54,Female,173,95,89,13,31.74,1600.25,2480.39,1972.7,Greek yogurt,Grilled chicken salad,Chicken soup,Protein bar
+54,Female,191,94,93,22,25.77,1702.75,2639.26,2589.26,Smoothie,Sushi,Salmon and quinoa,Protein bar
+27,Male,157,50,53,6,20.28,1351.25,2094.44,2644.44,Greek yogurt,Burrito bowl,Vegetable stir-fry,Hummus with carrots
+27,Male,173,89,85,8,29.74,1841.25,2853.94,2303.94,Pancakes,Sushi,Salmon and quinoa,Dark chocolate
+36,Male,165,68,72,6,24.98,1536.25,2381.19,3114.52,Oatmeal with fruits,Sushi,Vegetable stir-fry,Dark chocolate
+34,Female,198,110,113,19,28.06,2006.5,3110.08,3283.76,Pancakes,Pasta with veggies,Steak with veggies,Dark chocolate
+38,Male,175,61,51,20,19.92,1518.75,2354.06,1804.06,Eggs and toast,Burrito bowl,Steak with veggies,Hummus with carrots
+31,Female,176,110,114,18,35.51,1884.0,2920.2,3164.64,Smoothie,Rice and beans,Tofu curry,Hummus with carrots
+26,Female,186,82,78,6,23.7,1691.5,2621.82,1888.49,Eggs and toast,Rice and beans,Steak with veggies,Protein bar
+63,Male,153,94,94,15,40.16,1586.25,2458.69,2458.69,Smoothie,Burrito bowl,Tofu curry,Nuts and fruits
+18,Female,199,118,113,12,29.8,2172.75,3367.76,2909.43,Pancakes,Rice and beans,Salmon and quinoa,Cheese and crackers
+62,Male,173,57,56,24,19.05,1346.25,2086.69,2040.85,Greek yogurt,Burrito bowl,Steak with veggies,Cheese and crackers
+30,Male,168,74,65,15,26.22,1645.0,2549.75,1889.75,Greek yogurt,Rice and beans,Salmon and quinoa,Nuts and fruits
+21,Male,185,95,95,18,27.76,2006.25,3109.69,3109.69,Smoothie,Pasta with veggies,Salmon and quinoa,Protein bar
+18,Male,188,79,65,5,22.35,1880.0,2914.0,-166.0,Greek yogurt,Rice and beans,Steak with veggies,Nuts and fruits
+57,Male,159,96,93,21,37.97,1673.75,2594.31,2437.17,Pancakes,Sushi,Salmon and quinoa,Nuts and fruits
+49,Female,174,98,84,23,32.37,1661.5,2575.33,1905.76,Greek yogurt,Burrito bowl,Steak with veggies,Cheese and crackers
+51,Female,167,96,90,15,34.42,1587.75,2461.01,2021.01,Pancakes,Grilled chicken salad,Steak with veggies,Protein bar
+45,Female,168,67,54,7,23.74,1334.0,2067.7,24.84,Eggs and toast,Grilled chicken salad,Steak with veggies,Hummus with carrots
+48,Male,185,115,101,19,33.6,2071.25,3210.44,2399.91,Pancakes,Burrito bowl,Vegetable stir-fry,Cheese and crackers
+25,Male,159,117,120,19,46.28,2043.75,3167.81,3341.5,Oatmeal with fruits,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+56,Male,182,82,73,4,24.76,1682.5,2607.88,132.88,Oatmeal with fruits,Rice and beans,Chicken soup,Protein bar
+43,Female,199,85,89,25,21.46,1717.75,2662.51,2838.51,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Nuts and fruits
+51,Male,154,68,72,5,28.67,1392.5,2158.38,3038.38,Smoothie,Grilled chicken salad,Salmon and quinoa,Dark chocolate
+20,Female,196,77,80,6,20.04,1734.0,2687.7,3237.7,Smoothie,Burrito bowl,Tofu curry,Dark chocolate
+29,Female,198,89,89,24,22.7,1821.5,2823.32,2823.32,Smoothie,Burrito bowl,Steak with veggies,Protein bar
+18,Male,184,64,55,23,18.9,1705.0,2642.75,2212.32,Pancakes,Pasta with veggies,Steak with veggies,Dark chocolate
+61,Male,193,90,86,20,24.16,1806.25,2799.69,2579.69,Smoothie,Pasta with veggies,Chicken soup,Hummus with carrots
+22,Female,183,88,85,23,26.28,1752.75,2716.76,2573.28,Eggs and toast,Rice and beans,Vegetable stir-fry,Dark chocolate
+47,Male,182,51,56,25,15.4,1417.5,2197.12,2417.12,Oatmeal with fruits,Sushi,Vegetable stir-fry,Protein bar
+47,Female,170,112,102,24,38.75,1786.5,2769.08,2310.74,Pancakes,Sushi,Steak with veggies,Protein bar
+34,Male,166,78,78,4,28.31,1652.5,2561.38,2561.38,Oatmeal with fruits,Rice and beans,Salmon and quinoa,Hummus with carrots
+64,Male,171,115,112,23,39.33,1903.75,2950.81,2807.33,Smoothie,Sushi,Tofu curry,Dark chocolate
+40,Female,197,100,102,9,25.77,1870.25,2898.89,3143.33,Pancakes,Grilled chicken salad,Tofu curry,Dark chocolate
+32,Male,186,59,63,18,17.05,1597.5,2476.12,2720.57,Greek yogurt,Sushi,Salmon and quinoa,Nuts and fruits
+54,Female,164,63,65,17,23.42,1224.0,1897.2,2026.61,Eggs and toast,Rice and beans,Steak with veggies,Cheese and crackers
+38,Male,184,100,105,23,29.54,1965.0,3045.75,3284.88,Smoothie,Sushi,Tofu curry,Protein bar
+31,Female,177,88,75,18,28.09,1670.25,2588.89,1794.44,Smoothie,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+19,Female,156,77,73,17,31.64,1489.0,2307.95,2049.13,Eggs and toast,Pasta with veggies,Salmon and quinoa,Protein bar
+28,Male,181,52,43,24,15.87,1516.25,2350.19,1937.69,Eggs and toast,Grilled chicken salad,Chicken soup,Nuts and fruits
+56,Female,160,119,106,8,46.48,1749.0,2710.95,923.45,Greek yogurt,Burrito bowl,Steak with veggies,Cheese and crackers
+55,Male,159,76,66,9,30.06,1483.75,2299.81,1077.59,Smoothie,Burrito bowl,Salmon and quinoa,Nuts and fruits
+51,Male,158,51,53,20,20.43,1247.5,1933.62,2043.62,Smoothie,Rice and beans,Tofu curry,Protein bar
+55,Male,163,87,91,14,32.74,1618.75,2509.06,2823.35,Oatmeal with fruits,Pasta with veggies,Steak with veggies,Dark chocolate
+51,Female,162,52,45,19,19.81,1116.5,1730.58,1325.31,Pancakes,Pasta with veggies,Vegetable stir-fry,Protein bar
+35,Female,174,65,70,15,21.47,1401.5,2172.33,2538.99,Pancakes,Grilled chicken salad,Steak with veggies,Hummus with carrots
+47,Male,151,89,78,18,39.03,1603.75,2485.81,1813.59,Oatmeal with fruits,Rice and beans,Steak with veggies,Hummus with carrots
+32,Male,184,51,44,7,15.06,1505.0,2332.75,1232.75,Pancakes,Grilled chicken salad,Vegetable stir-fry,Hummus with carrots
+44,Female,156,90,92,21,36.98,1494.0,2315.7,2420.46,Eggs and toast,Sushi,Vegetable stir-fry,Hummus with carrots
+51,Male,170,61,60,24,21.11,1422.5,2204.88,2159.04,Pancakes,Burrito bowl,Steak with veggies,Cheese and crackers
+55,Male,167,84,73,6,30.12,1613.75,2501.31,484.65,Pancakes,Grilled chicken salad,Vegetable stir-fry,Dark chocolate
+50,Female,152,114,111,25,49.34,1679.0,2602.45,2470.45,Oatmeal with fruits,Burrito bowl,Salmon and quinoa,Dark chocolate
+41,Male,191,104,106,11,28.51,2033.75,3152.31,3352.31,Greek yogurt,Rice and beans,Vegetable stir-fry,Protein bar
+32,Female,188,94,81,6,26.6,1794.0,2780.7,397.37,Pancakes,Sushi,Vegetable stir-fry,Nuts and fruits
+47,Male,190,111,116,11,30.75,2067.5,3204.62,3704.62,Pancakes,Rice and beans,Steak with veggies,Protein bar
+59,Female,198,98,94,21,25.0,1761.5,2730.32,2520.8,Greek yogurt,Sushi,Salmon and quinoa,Protein bar
+34,Male,160,74,76,13,28.91,1575.0,2441.25,2610.48,Oatmeal with fruits,Sushi,Chicken soup,Protein bar
+22,Male,188,72,69,23,20.37,1790.0,2774.5,2631.02,Greek yogurt,Burrito bowl,Chicken soup,Protein bar
+46,Female,173,73,66,20,24.39,1420.25,2201.39,1816.39,Oatmeal with fruits,Rice and beans,Tofu curry,Dark chocolate
+21,Male,195,87,79,11,22.88,1988.75,3082.56,2282.56,Eggs and toast,Rice and beans,Vegetable stir-fry,Nuts and fruits
+27,Female,168,77,73,14,27.28,1524.0,2362.2,2047.91,Oatmeal with fruits,Grilled chicken salad,Vegetable stir-fry,Protein bar
+34,Male,153,70,70,8,29.9,1491.25,2311.44,2311.44,Eggs and toast,Rice and beans,Salmon and quinoa,Dark chocolate
+27,Female,175,103,93,16,33.63,1827.75,2833.01,2145.51,Eggs and toast,Grilled chicken salad,Chicken soup,Protein bar
+34,Female,187,67,67,24,19.16,1507.75,2337.01,2337.01,Oatmeal with fruits,Pasta with veggies,Tofu curry,Hummus with carrots
+37,Female,191,85,74,8,23.3,1697.75,2631.51,1119.01,Smoothie,Pasta with veggies,Salmon and quinoa,Protein bar
+41,Female,181,94,90,16,28.69,1705.25,2643.14,2368.14,Oatmeal with fruits,Pasta with veggies,Vegetable stir-fry,Protein bar
+22,Male,188,102,90,9,28.86,2090.0,3239.5,1772.83,Pancakes,Rice and beans,Chicken soup,Cheese and crackers
+51,Male,194,79,67,8,20.99,1752.5,2716.38,1066.38,Pancakes,Rice and beans,Tofu curry,Hummus with carrots
+23,Female,195,109,112,12,28.67,2032.75,3150.76,3425.76,Smoothie,Grilled chicken salad,Steak with veggies,Nuts and fruits
+19,Female,185,81,67,19,23.67,1710.25,2650.89,1840.36,Eggs and toast,Sushi,Chicken soup,Protein bar
+30,Female,189,116,107,5,32.47,2030.25,3146.89,1166.89,Smoothie,Grilled chicken salad,Tofu curry,Nuts and fruits
+60,Male,186,116,107,4,33.53,2027.5,3142.62,667.62,Pancakes,Pasta with veggies,Salmon and quinoa,Hummus with carrots
+60,Male,182,77,79,11,23.25,1612.5,2499.38,2699.38,Smoothie,Grilled chicken salad,Steak with veggies,Protein bar
+28,Male,185,93,90,22,27.17,1951.25,3024.44,2874.44,Oatmeal with fruits,Sushi,Tofu curry,Cheese and crackers
+64,Male,152,90,77,14,38.95,1535.0,2379.25,1357.82,Smoothie,Rice and beans,Tofu curry,Dark chocolate
+40,Female,158,112,101,15,44.86,1746.5,2707.08,1900.41,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Cheese and crackers
+33,Female,157,72,67,15,29.21,1375.25,2131.64,1764.97,Oatmeal with fruits,Pasta with veggies,Chicken soup,Cheese and crackers
+48,Female,182,97,94,10,29.28,1706.5,2645.08,2315.08,Greek yogurt,Pasta with veggies,Vegetable stir-fry,Dark chocolate
+28,Male,155,81,77,16,33.71,1643.75,2547.81,2272.81,Pancakes,Rice and beans,Steak with veggies,Dark chocolate
+33,Male,190,106,94,11,29.36,2087.5,3235.62,2035.62,Pancakes,Grilled chicken salad,Tofu curry,Dark chocolate
+25,Male,188,82,68,25,23.2,1875.0,2906.25,2290.25,Smoothie,Sushi,Vegetable stir-fry,Protein bar
+21,Female,153,73,66,12,31.18,1420.25,2201.39,1559.72,Oatmeal with fruits,Rice and beans,Chicken soup,Nuts and fruits
+57,Female,162,88,86,10,33.53,1446.5,2242.08,2022.08,Greek yogurt,Grilled chicken salad,Steak with veggies,Nuts and fruits
+21,Male,198,83,82,24,21.17,1967.5,3049.62,3003.79,Oatmeal with fruits,Burrito bowl,Salmon and quinoa,Dark chocolate
+42,Female,151,105,94,18,46.05,1622.75,2515.26,1843.04,Pancakes,Pasta with veggies,Vegetable stir-fry,Cheese and crackers
+20,Male,154,77,68,5,32.47,1637.5,2538.12,558.12,Oatmeal with fruits,Sushi,Steak with veggies,Hummus with carrots
+49,Male,193,86,72,23,23.09,1826.25,2830.69,2161.12,Greek yogurt,Sushi,Salmon and quinoa,Dark chocolate
+20,Female,176,56,47,15,18.08,1399.0,2168.45,1508.45,Smoothie,Sushi,Vegetable stir-fry,Cheese and crackers
+44,Male,181,117,122,4,35.71,2086.25,3233.69,4608.69,Eggs and toast,Pasta with veggies,Steak with veggies,Cheese and crackers
+46,Female,170,86,78,25,29.76,1531.5,2373.83,2021.83,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Protein bar
+49,Male,157,105,106,11,42.6,1791.25,2776.44,2876.44,Eggs and toast,Rice and beans,Vegetable stir-fry,Protein bar
+36,Female,187,114,109,8,32.6,1967.75,3050.01,2362.51,Pancakes,Grilled chicken salad,Steak with veggies,Nuts and fruits
+38,Female,157,114,104,18,46.25,1770.25,2743.89,2132.78,Smoothie,Rice and beans,Tofu curry,Nuts and fruits
+22,Female,199,96,100,4,24.24,1932.75,2995.76,4095.76,Smoothie,Sushi,Vegetable stir-fry,Hummus with carrots
+35,Male,152,69,67,4,29.86,1470.0,2278.5,1728.5,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Hummus with carrots
+45,Male,193,68,63,13,18.26,1666.25,2582.69,2159.61,Smoothie,Sushi,Salmon and quinoa,Hummus with carrots
+59,Female,152,78,66,25,33.76,1274.0,1974.7,1446.7,Oatmeal with fruits,Burrito bowl,Salmon and quinoa,Hummus with carrots
+39,Female,171,109,112,13,37.28,1802.75,2794.26,3048.11,Oatmeal with fruits,Sushi,Tofu curry,Cheese and crackers
+38,Male,155,67,72,24,27.89,1453.75,2253.31,2482.48,Eggs and toast,Sushi,Vegetable stir-fry,Cheese and crackers
+23,Male,151,84,79,18,36.84,1673.75,2594.31,2288.76,Smoothie,Rice and beans,Steak with veggies,Nuts and fruits
+18,Male,172,92,82,20,31.1,1910.0,2960.5,2410.5,Oatmeal with fruits,Burrito bowl,Steak with veggies,Protein bar
+22,Female,193,60,48,25,16.11,1535.25,2379.64,1851.64,Eggs and toast,Sushi,Salmon and quinoa,Protein bar
+58,Male,151,98,88,9,42.98,1638.75,2540.06,1317.84,Greek yogurt,Sushi,Tofu curry,Dark chocolate
+29,Male,187,87,83,6,24.88,1898.75,2943.06,2209.73,Eggs and toast,Burrito bowl,Salmon and quinoa,Cheese and crackers
+43,Female,166,113,101,16,41.01,1791.5,2776.82,1951.83,Eggs and toast,Burrito bowl,Salmon and quinoa,Hummus with carrots
+63,Male,184,118,118,19,34.85,2020.0,3131.0,3131.0,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Hummus with carrots
+51,Male,183,57,44,11,17.02,1463.75,2268.81,968.81,Pancakes,Rice and beans,Vegetable stir-fry,Dark chocolate
+31,Male,172,83,85,18,28.06,1755.0,2720.25,2842.47,Pancakes,Burrito bowl,Steak with veggies,Protein bar
+43,Female,179,97,90,20,30.27,1712.75,2654.76,2269.76,Pancakes,Burrito bowl,Vegetable stir-fry,Hummus with carrots
+62,Female,157,105,97,20,42.6,1560.25,2418.39,1978.39,Eggs and toast,Pasta with veggies,Chicken soup,Protein bar
+44,Female,171,114,117,25,38.99,1827.75,2833.01,2965.01,Oatmeal with fruits,Burrito bowl,Chicken soup,Dark chocolate
+26,Female,193,80,76,16,21.48,1715.25,2658.64,2383.64,Smoothie,Rice and beans,Chicken soup,Protein bar
+43,Female,185,53,53,20,15.49,1310.25,2030.89,2030.89,Eggs and toast,Sushi,Tofu curry,Protein bar
+64,Female,154,99,104,9,41.74,1471.5,2280.83,2891.94,Eggs and toast,Sushi,Salmon and quinoa,Protein bar
+39,Female,162,118,110,20,44.96,1836.5,2846.58,2406.58,Oatmeal with fruits,Sushi,Vegetable stir-fry,Hummus with carrots
+64,Male,178,79,77,19,24.93,1587.5,2460.62,2344.84,Greek yogurt,Sushi,Steak with veggies,Nuts and fruits
+47,Male,180,108,95,17,33.33,1975.0,3061.25,2220.07,Eggs and toast,Pasta with veggies,Chicken soup,Cheese and crackers
+60,Female,196,116,108,16,30.2,1924.0,2982.2,2432.2,Greek yogurt,Burrito bowl,Vegetable stir-fry,Protein bar
+34,Male,165,94,90,9,34.53,1806.25,2799.69,2310.8,Greek yogurt,Sushi,Chicken soup,Protein bar
+43,Male,191,53,42,6,14.53,1513.75,2346.31,329.65,Pancakes,Grilled chicken salad,Chicken soup,Protein bar
+53,Female,179,75,72,17,23.41,1442.75,2236.26,2042.14,Oatmeal with fruits,Sushi,Steak with veggies,Nuts and fruits
+18,Male,165,76,76,17,27.92,1706.25,2644.69,2644.69,Greek yogurt,Burrito bowl,Tofu curry,Dark chocolate
+25,Male,161,95,90,18,36.65,1836.25,2846.19,2540.63,Oatmeal with fruits,Sushi,Salmon and quinoa,Hummus with carrots
+52,Male,166,113,112,11,41.01,1912.5,2964.38,2864.38,Pancakes,Pasta with veggies,Tofu curry,Nuts and fruits
+32,Male,165,100,89,18,36.73,1876.25,2908.19,2235.97,Oatmeal with fruits,Rice and beans,Vegetable stir-fry,Protein bar
+64,Male,161,99,104,25,38.19,1681.25,2605.94,2825.94,Eggs and toast,Rice and beans,Tofu curry,Nuts and fruits
+39,Female,157,55,56,16,22.31,1175.25,1821.64,1890.39,Greek yogurt,Burrito bowl,Vegetable stir-fry,Nuts and fruits
+31,Female,169,108,105,20,37.81,1820.25,2821.39,2656.39,Oatmeal with fruits,Rice and beans,Vegetable stir-fry,Nuts and fruits
+43,Female,152,64,52,24,27.7,1214.0,1881.7,1331.7,Smoothie,Rice and beans,Salmon and quinoa,Dark chocolate
+45,Male,165,79,83,6,29.02,1601.25,2481.94,3215.27,Oatmeal with fruits,Grilled chicken salad,Steak with veggies,Cheese and crackers
+40,Female,179,91,86,9,28.4,1667.75,2585.01,1973.9,Greek yogurt,Burrito bowl,Salmon and quinoa,Hummus with carrots
+31,Male,194,86,86,8,22.85,1922.5,2979.88,2979.88,Pancakes,Burrito bowl,Tofu curry,Dark chocolate
+41,Male,172,91,89,25,30.76,1785.0,2766.75,2678.75,Pancakes,Rice and beans,Vegetable stir-fry,Dark chocolate
+19,Male,177,84,86,20,26.81,1856.25,2877.19,2987.19,Greek yogurt,Rice and beans,Chicken soup,Cheese and crackers
+62,Male,189,55,43,5,15.4,1426.25,2210.69,-429.31,Eggs and toast,Rice and beans,Chicken soup,Dark chocolate
+43,Female,154,117,112,18,49.33,1756.5,2722.58,2417.02,Eggs and toast,Pasta with veggies,Vegetable stir-fry,Nuts and fruits
+31,Female,169,67,68,8,23.46,1410.25,2185.89,2323.39,Pancakes,Sushi,Salmon and quinoa,Nuts and fruits
+24,Male,189,78,69,23,21.84,1846.25,2861.69,2431.25,Pancakes,Pasta with veggies,Steak with veggies,Protein bar
+20,Female,193,108,96,9,28.99,2025.25,3139.14,1672.47,Greek yogurt,Burrito bowl,Salmon and quinoa,Dark chocolate
+64,Male,150,96,100,9,42.67,1582.5,2452.88,2941.76,Eggs and toast,Grilled chicken salad,Vegetable stir-fry,Protein bar
+40,Female,179,66,61,21,20.6,1417.75,2197.51,1935.61,Pancakes,Sushi,Vegetable stir-fry,Hummus with carrots
+63,Female,170,71,64,21,24.57,1296.5,2009.58,1642.91,Eggs and toast,Grilled chicken salad,Steak with veggies,Nuts and fruits
+60,Male,169,117,119,7,40.96,1931.25,2993.44,3307.72,Pancakes,Burrito bowl,Tofu curry,Hummus with carrots
+64,Female,155,118,117,20,49.12,1667.75,2585.01,2530.01,Oatmeal with fruits,Burrito bowl,Tofu curry,Cheese and crackers
+62,Male,171,86,81,17,29.41,1623.75,2516.81,2193.28,Smoothie,Grilled chicken salad,Steak with veggies,Nuts and fruits
+35,Female,167,98,100,17,35.14,1687.75,2616.01,2745.42,Oatmeal with fruits,Grilled chicken salad,Tofu curry,Hummus with carrots
+55,Male,157,62,53,16,25.15,1331.25,2063.44,1444.69,Pancakes,Grilled chicken salad,Chicken soup,Cheese and crackers
+52,Male,188,83,88,10,23.48,1750.0,2712.5,3262.5,Smoothie,Burrito bowl,Tofu curry,Hummus with carrots
+32,Female,181,102,105,15,31.13,1830.25,2836.89,3056.89,Smoothie,Rice and beans,Tofu curry,Cheese and crackers
+42,Female,182,100,92,18,30.19,1766.5,2738.08,2249.19,Pancakes,Grilled chicken salad,Tofu curry,Cheese and crackers
+54,Male,165,52,52,22,19.1,1286.25,1993.69,1993.69,Pancakes,Sushi,Chicken soup,Nuts and fruits
+45,Female,161,91,79,14,35.11,1530.25,2371.89,1429.03,Eggs and toast,Burrito bowl,Tofu curry,Protein bar
+27,Female,187,81,86,18,23.16,1682.75,2608.26,2913.82,Pancakes,Pasta with veggies,Chicken soup,Cheese and crackers
